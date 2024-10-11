@@ -1,0 +1,1181 @@
+score,position,name,country,sex,year,type,category,team,heat
+45.1,1, Alessandra Marchetti, Italy,female,2013,pole sport,senior,individual,finals
+44.2,2, Kate Czepulkowski, UK,female,2013,pole sport,senior,individual,finals
+42.5,3, Polina Volchek, USA,female,2013,pole sport,senior,individual,finals
+42.1,4, Haruna Matsunami, Japan,female,2013,pole sport,senior,individual,finals
+39.4,5, Natalia Guseva, Russia,female,2013,pole sport,senior,individual,finals
+38.1,6, Victoria Rame, Argentina,female,2013,pole sport,senior,individual,finals
+35.9,7, Anna Nikulina, Czech Republic,female,2013,pole sport,senior,individual,finals
+34.3,8, Tammy Smith, South Africa,female,2013,pole sport,senior,individual,finals
+33.5,9, Veronika Mikhailova, Russia,female,2013,pole sport,senior,individual,finals
+33.0,10, Stepanka Saskovicova, Czech Republic,female,2013,pole sport,senior,individual,finals
+30.1,11, Sarah Cavenaile, Belgium,female,2013,pole sport,senior,individual,finals
+25.9,12, Nina Teltsova, Russia,female,2013,pole sport,senior,individual,finals
+43.9,1, Alex Shchukin, Ukraine,male,2013,pole sport,senior,individual,finals
+38.0,2, Davide Zongoli, Italy,male,2013,pole sport,senior,individual,finals
+50.2,3, Derick Pierson, USA,male,2013,pole sport,senior,individual,finals
+37.2,4, Alessio Bucci, Italy,male,2013,pole sport,senior,individual,finals
+36.8,5, Guilherme Wandresen, Brazil,male,2013,pole sport,senior,individual,finals
+35.1,6 - Joint, Gregorys García & Daniel Rosen, Venezuela & UK,male,2013,pole sport,senior,individual,finals
+30.3,8, Kazuya Naka, Japan,male,2013,pole sport,senior,individual,finals
+47.0,1, Terri Walsh & Lisette Krol, Ireland,female,2013,pole sport,senior,doubles,finals
+46.4,2, Sherry Bremner & Simone Hodgskiss, South Africa,female,2013,pole sport,senior,doubles,finals
+45.5,3, Masayo Okamoto & Kazuya Naka, Japan,female,2013,pole sport,senior,doubles,finals
+0.0,4, Julie Swart & Alicja Gralewska, South Africa,female,2013,pole sport,senior,doubles,finals
+42.8,5, Julia Irinina and Erika Iakovleva, Russia,female,2013,pole sport,senior,doubles,finals
+36.1,6, Belen Serra & Joaquin Dezzotti, Argentina,female,2013,pole sport,senior,doubles,finals
+33.4,7, Manuela Badessi & Erika Lombardelli, Italy,female,2013,pole sport,senior,doubles,finals
+26.1,8, Margie Maduro & Stephanie Kreukniet, Netherlands,female,2013,pole sport,senior,doubles,finals
+44.9,1, Liza Szabo, Hungary,female,2013,pole sport,masters 40+,individual,finals
+40.0,2, Yvette Austin, UK,female,2013,pole sport,masters 40+,individual,finals
+39.9,3, Karen Chaundy, UK,female,2013,pole sport,masters 40+,individual,finals
+37.8,4, Issey Yamazaki, Japan,female,2013,pole sport,masters 40+,individual,finals
+34.8,5, Herdis Jenssen, Norway,female,2013,pole sport,masters 40+,individual,finals
+32.6,6, Samantha Fabbrini, Italy,female,2013,pole sport,masters 40+,individual,finals
+32.2,7, Mark Vernon, UK,male,2013,pole sport,masters 40+,individual,finals
+37.7,1, Greta Pontarelli, USA,female,2013,pole sport,masters 50+,individual,finals
+20.8,2, Irina Zelenkova, Russia,female,2013,pole sport,masters 50+,individual,finals
+13.9,3, Natasha Payne, UK,female,2013,pole sport,masters 50+,individual,finals
+28.2,1, Bernadett Floch, Hungary,female,2013,pole sport,junior,individual,finals
+17.8,2, Mandy Maerevoet, Belgium,female,2013,pole sport,junior,individual,finals
+38.3,1, Olga Trifinova, Russia,female,2013,pole sport,novice,individual,finals
+35.0,2, Sofia Kiperman, Russia,female,2013,pole sport,novice,individual,finals
+33.3,3, Evelina Bragina & Aimee Hilton, Russia & UK,female,2013,pole sport,novice,individual,finals
+23.5,5, Ester Cardoso Barbosa, Italy,female,2013,pole sport,novice,individual,finals
+23.0,6, Giorgia Bussi, Italy,female,2013,pole sport,novice,individual,finals
+47.25,1,Paige Olson ,USA,female,2016,pole sport,novice,individual,finals
+42.8,2,Romane Moscaritolo,Switzerland,female,2016,pole sport,novice,individual,finals
+41.3,3,Sofiya Oliinyk,Ukraine,female,2016,pole sport,novice,individual,finals
+40.5,4,Vanesa Viskova,Czech Republic,female,2016,pole sport,novice,individual,finals
+39.4,5,Sorami Fujioka,Japan,female,2016,pole sport,novice,individual,finals
+37.25,6,Annika Winkler,Germany,female,2016,pole sport,novice,individual,finals
+37.0,7,Dana Castillo Zarazua,Mexico,female,2016,pole sport,novice,individual,finals
+34.8,8,Andrea Estafanía Rodriguez Lopez,Mexico,female,2016,pole sport,novice,individual,finals
+31.75,9,Terezie Drabikova,Czech Republic,female,2016,pole sport,novice,individual,finals
+30.4,10,Chiari Isawaki,Japan,female,2016,pole sport,novice,individual,finals
+50.2,1,Szonja Janzer,Hungary,female,2016,pole sport,junior,individual,finals
+38.55,2,Andrea Fiorella Chacon Cortes,Colombia,female,2016,pole sport,junior,individual,finals
+34.0,3,Nikol Kalabsova,Czech Republic,female,2016,pole sport,junior,individual,finals
+28.45,4,Carolina Arlandez Zoyo,Spain,female,2016,pole sport,junior,individual,finals
+27.85,5,Sarah Wagnerova,Czech Republic,female,2016,pole sport,junior,individual,finals
+22.15,6,Kanna Tanigucho,Japan,female,2016,pole sport,junior,individual,finals
+20.75,7,Astrid Piepers,The Netherlands,female,2016,pole sport,junior,individual,finals
+20.2,8,Crystal Kerkhoven,The Netherlands,female,2016,pole sport,junior,individual,finals
+9.9,9,Paola Cortés Viciconty,Mexico,female,2016,pole sport,junior,individual,finals
+0.0,10,Takahashi Kyoko,Japan,female,2016,pole sport,junior,individual,finals
+48.1,1,Yvonne Haug,Germany,female,2016,pole sport,masters 40+,individual,finals
+37.7,2,Ryoko Ibaraki,Japan,female,2016,pole sport,masters 40+,individual,finals
+35.0,3,Herdis Jenssen,Norway,female,2016,pole sport,masters 40+,individual,finals
+31.15,4,Marcela Ramírez Fajardo,Chile,female,2016,pole sport,masters 40+,individual,finals
+29.35,5,Orsolya Keleman,Hungary,female,2016,pole sport,masters 40+,individual,finals
+27.1,6,Daniela Choderova,Czech republic,female,2016,pole sport,masters 40+,individual,finals
+25.7,7,Susan Nolan,Ireland,female,2016,pole sport,masters 40+,individual,finals
+25.05,8,Masako Aoki,Japan,female,2016,pole sport,masters 40+,individual,finals
+22.1,9,Irina Parakhnievich,Ukraine,female,2016,pole sport,masters 40+,individual,finals
+21.0,10,Maribel Cano Torres,Spain,female,2016,pole sport,masters 40+,individual,finals
+18.9,11,Isabel Maria Aguilar,Colombia,female,2016,pole sport,masters 40+,individual,finals
+16.2,12,Siuho Hung,The Netherlands,female,2016,pole sport,masters 40+,individual,finals
+34.15,1,Seiichi Yamazaki,Japan,male,2016,pole sport,masters 40+,individual,finals
+24.1,2,Takashi Minami,Japan,male,2016,pole sport,masters 40+,individual,finals
+41.6,1,Christie Kurrle,Australia,female,2016,pole sport,masters 50+,individual,finals
+39.0,2,Nora Susana Ordoñez López,Mexico,female,2016,pole sport,masters 50+,individual,finals
+33.95,3,Edi Reis Gallego,Brazil,female,2016,pole sport,masters 50+,individual,finals
+30.5,4,Mika Higuchi,Japan,female,2016,pole sport,masters 50+,individual,finals
+27.8,5,Tintti Mikkonen,Finland,female,2016,pole sport,masters 50+,individual,finals
+25.0,6,Rita Valvasori,Australia,female,2016,pole sport,masters 50+,individual,finals
+16.25,7,Monica Van Beek,The Netherlands,female,2016,pole sport,masters 50+,individual,finals
+16.65,1,Yoshichika Kugimiya,Japan,male,2016,pole sport,masters 50+,individual,finals
+57.0,1,Polina Volchek and Dmitrii Politov,USA,mixed,2016,pole sport,senior,doubles,finals
+48.45,2,María Eugenia Plaza Ortega & Mariana Trujillo Muñoz,Mexico,mixed,2016,pole sport,senior,doubles,finals
+43.2,3,Amanda Drotz & Anki Happonen,Sweden,mixed,2016,pole sport,senior,doubles,finals
+42.9,4,Julia Wahl & Bianca Schumayer,Germany,mixed,2016,pole sport,senior,doubles,finals
+42.25,5,Keiko Takemoto & Maki Mori,Japan,mixed,2016,pole sport,senior,doubles,finals
+41.25,6,Tamara Levering & Chris de Weerd,The Netherlands,mixed,2016,pole sport,senior,doubles,finals
+39.75,7,Elise Lander & Vendi Andersson,Norway,mixed,2016,pole sport,senior,doubles,finals
+38.9,8,Silva Retamal Eduardo Antonio & Saez Soto Cristopher,Chile,mixed,2016,pole sport,senior,doubles,finals
+38.1,9,Tallyta Torres & Vera Lucia T. Almeida,Brazil,mixed,2016,pole sport,senior,doubles,finals
+36.9,10,Marina Ruskova & Viktoriia Trenina,Russia,mixed,2016,pole sport,senior,doubles,finals
+53.7,1,Ricardo Valenzuela Bustos,Chile,male,2016,pole sport,senior,individual,finals
+49.8,2,Julio Cesar Marin Clavel,Colombia,male,2016,pole sport,senior,individual,finals
+49.45,3,Felipe Nicolás Pérez Mendoza,Chile,male,2016,pole sport,senior,individual,finals
+49.0,4,Moisés Ahumada Reyes,Mexico,male,2016,pole sport,senior,individual,finals
+44.7,5,Naoto Araya,Japan,male,2016,pole sport,senior,individual,finals
+44.1,6,Sierohukurov Hennadiy,Ukraine,male,2016,pole sport,senior,individual,finals
+41.9,7,Christian Fernandez,Spain,male,2016,pole sport,senior,individual,finals
+41.7,8,Kazuya Naka,Japan,male,2016,pole sport,senior,individual,finals
+39.15,9,Jorge Lera,Norway,male,2016,pole sport,senior,individual,finals
+34.85,10,Roman Konanchuk,Germany,male,2016,pole sport,senior,individual,finals
+68.15,1,Rafaela Montanaro,USA,female,2016,pole sport,senior,individual,finals
+64.55,2,Polina Volchek,USA,female,2016,pole sport,senior,individual,finals
+60.0,3,Ruzenka Kunstyrova,Czech Republic,female,2016,pole sport,senior,individual,finals
+51.85,4,Jordana de Haro,Spain,female,2016,pole sport,senior,individual,finals
+51.5,5,Olena Minina,Ukraine,female,2016,pole sport,senior,individual,finals
+49.55,6,Elise Dahl-Hansen,Norway,female,2016,pole sport,senior,individual,finals
+46.7,7,Erika González del Pliego Revilla,Mexico,female,2016,pole sport,senior,individual,finals
+46.7,8,María Eugenia Plaza Ortega,Mexico,female,2016,pole sport,senior,individual,finals
+45.1,9,Tammy Smith,South Africa,female,2016,pole sport,senior,individual,finals
+41.7,10,Sandra Jung,Germany,female,2016,pole sport,senior,individual,finals
+46.0,1,Vanesa Viskova,Chech Republic,female,2016,pole sport,novice,individual,preliminary
+45.05,2,Paige Olson ,USA,female,2016,pole sport,novice,individual,preliminary
+43.95,3,Annika Winkler,Germany,female,2016,pole sport,novice,individual,preliminary
+42.25,4,Romane Moscaritolo,Switzerland,female,2016,pole sport,novice,individual,preliminary
+40.6,5,Sofiya Oliinyk,Ukraine,female,2016,pole sport,novice,individual,preliminary
+39.6,6,Chiari Isawaki,Japan,female,2016,pole sport,novice,individual,preliminary
+39.4,7,Andrea Estafanía Rodriguez Lopez,Mexico,female,2016,pole sport,novice,individual,preliminary
+38.6,8,Dana Castillo Zarazua,Mexico,female,2016,pole sport,novice,individual,preliminary
+38.35,9,Sorami Fujioka,Japan,female,2016,pole sport,novice,individual,preliminary
+36.8,10,Terezie Drabikova,Czech Republic,female,2016,pole sport,novice,individual,preliminary
+36.8,11,Grebeniuk Yelizaveta,Ukraine,female,2016,pole sport,novice,individual,preliminary
+35.05,12,Jara Bauhaus,Germany,female,2016,pole sport,novice,individual,preliminary
+34.8,13,Demi Brama,The Netherlands,female,2016,pole sport,novice,individual,preliminary
+34.45,14,Zoe Blair,USA,female,2016,pole sport,novice,individual,preliminary
+33.7,15,Brooke Lynne Unsworth,South Africa,female,2016,pole sport,novice,individual,preliminary
+33.6,16,Alba Parra,Spain,female,2016,pole sport,novice,individual,preliminary
+30.85,17,Zoë Timmermans,The Netherlands,female,2016,pole sport,novice,individual,preliminary
+24.45,18,Menta Mery,Hungary,female,2016,pole sport,novice,individual,preliminary
+22.75,19,Panna Kocsaslijszk,Hungary,female,2016,pole sport,novice,individual,preliminary
+60.3,1,Polina Volchek and Dmitrii Politov,USA,mixed,2016,pole sport,senior,doubles,preliminary
+50.95,2,Silva Retamal Eduardo Antonio & Saez Soto Cristopher,Chile,mixed,2016,pole sport,senior,doubles,preliminary
+50.7,3,Keiko Takemoto & Maki Mori,Japan,mixed,2016,pole sport,senior,doubles,preliminary
+50.65,4,María Eugenia Plaza Ortega & Mariana Trujillo Muñoz,Mexico,mixed,2016,pole sport,senior,doubles,preliminary
+50.5,5,Elise Lander & Vendi Andersson,Norway,mixed,2016,pole sport,senior,doubles,preliminary
+48.8,6,Marina Ruskova & Viktoriia Trenina,Russia,mixed,2016,pole sport,senior,doubles,preliminary
+48.4,7,Tamara Levering & Chris de Weerd,Netherlands,mixed,2016,pole sport,senior,doubles,preliminary
+47.55,8,Julia Wahl & Bianca Schumayer,Germany,mixed,2016,pole sport,senior,doubles,preliminary
+46.7,9,Amanda Drotz & Anki Happonen,Sweden,mixed,2016,pole sport,senior,doubles,preliminary
+45.2,10,Tallyta Torres & Vera Lucia T. Almeida,Brazil,mixed,2016,pole sport,senior,doubles,preliminary
+44.05,11,Irina Mauch & Carmen Fisherkeller,Germany,mixed,2016,pole sport,senior,doubles,preliminary
+43.6,12,Ai Nishimori & Ayaki Chikazawa,Japan,mixed,2016,pole sport,senior,doubles,preliminary
+43.45,13,Katrina Wyckoff & Brianne McClanahan,USA,mixed,2016,pole sport,senior,doubles,preliminary
+40.1,14,Camilla Haukas & Steivor Andersen,Norway,mixed,2016,pole sport,senior,doubles,preliminary
+39.1,15,Dominika Nemeth & Szandra Siegler,Hungary,mixed,2016,pole sport,senior,doubles,preliminary
+37.45,16,Lucia Correa & Ana Celano,Argentina,mixed,2016,pole sport,senior,doubles,preliminary
+36.3,17,Kata Gyarmati & Marianna Potyka,Hungary,mixed,2016,pole sport,senior,doubles,preliminary
+35.6,18,Manon Kohler & Gaëlle Gander,Switzerland,mixed,2016,pole sport,senior,doubles,preliminary
+27.9,19,Suzanne Vink & Mirthe Janssen,Netherlands,mixed,2016,pole sport,senior,doubles,preliminary
+55.95,1,Ricardo Valenzuela Bustos,Chile,male,2016,pole sport,senior,individual,preliminary
+54.55,2,Felipe Nicolás Pérez Mendoza,Chile,male,2016,pole sport,senior,individual,preliminary
+51.3,3,Julio Cesar Marin Clavel,Colombia,male,2016,pole sport,senior,individual,preliminary
+48.35,4,Moisés Ahumada Reyes,Mexio,male,2016,pole sport,senior,individual,preliminary
+47.2,5,Naoto Araya,Japan,male,2016,pole sport,senior,individual,preliminary
+45.35,6,Sierohukurov Hennadiy,Ukraine,male,2016,pole sport,senior,individual,preliminary
+43.95,7,Christian Fernandez,Spain,male,2016,pole sport,senior,individual,preliminary
+42.2,8,Roman Konanchuk,Germany,male,2016,pole sport,senior,individual,preliminary
+41.95,9,Kazuya Naka,Japan,male,2016,pole sport,senior,individual,preliminary
+40.25,10,Jorge Lera,Norway,male,2016,pole sport,senior,individual,preliminary
+39.0,11,Andres Dario Rivera,Colombia,male,2016,pole sport,senior,individual,preliminary
+32.5,12,Hendrik de Jonge,Netherlands,male,2016,pole sport,senior,individual,preliminary
+32.5,13,Lei Jiang,China,male,2016,pole sport,senior,individual,preliminary
+24.45,14,Pawel Kulaga,Poland,male,2016,pole sport,senior,individual,preliminary
+24.15,15,Jaesub Kim,South Korea,male,2016,pole sport,senior,individual,preliminary
+21.9,16,Ludovic Roulin,Switzerland,male,2016,pole sport,senior,individual,preliminary
+21.1,17,Gustavo da Silva Quintino,Brazil,male,2016,pole sport,senior,individual,preliminary
+21.3,18,Hanse Andersson,Sweden,male,2016,pole sport,senior,individual,preliminary
+18.85,19,Andrii Kopyniak,Ukraine,male,2016,pole sport,senior,individual,preliminary
+68.3,1,Rafaela Montanaro,USA,female,2016,pole sport,senior,individual,preliminary
+59.65,2,Ruzenka Kunstyrova,Czech Republic,female,2016,pole sport,senior,individual,preliminary
+59.15,3,Polina Volchek,USA,female,2016,pole sport,senior,individual,preliminary
+58.75,4,Erika González del Pliego Revilla,Mexico,female,2016,pole sport,senior,individual,preliminary
+57.95,5,María Eugenia Plaza Ortega,Mexican,female,2016,pole sport,senior,individual,preliminary
+53.45,6,Jordana de Haro,Spain,female,2016,pole sport,senior,individual,preliminary
+52.45,7,Olena Minina,Ukraine,female,2016,pole sport,senior,individual,preliminary
+51.0,8,Elise Dahl-Hansen,Norway,female,2016,pole sport,senior,individual,preliminary
+49.65,9,Sandra Jung,Germany,female,2016,pole sport,senior,individual,preliminary
+48.95,10,Tammy Smith,South Africa,female,2016,pole sport,senior,individual,preliminary
+48.8,11,Romana Zahalkova,Czech Republic,female,2016,pole sport,senior,individual,preliminary
+48.0,12,Rania El-Azzami,Germany,female,2016,pole sport,senior,individual,preliminary
+46.9,13,Emi Ono,Japan,female,2016,pole sport,senior,individual,preliminary
+46.55,14,Irina Vorobyeva,Spain,female,2016,pole sport,senior,individual,preliminary
+46.2,15,Noemi Marosvolgyi,Czech Republic,female,2016,pole sport,senior,individual,preliminary
+45.7,16,Julie Frota Barcellos,Brazil,female,2016,pole sport,senior,individual,preliminary
+45.65,17,Belinda Van Ommen,Netherlands,female,2016,pole sport,senior,individual,preliminary
+44.1,18,Ivania Sofía Reyes Noguera,Chile,female,2016,pole sport,senior,individual,preliminary
+44.0,19,Reka Bokfi,Hungary,female,2016,pole sport,senior,individual,preliminary
+42.9,20,Bjorg Granly,Norway,female,2016,pole sport,senior,individual,preliminary
+42.6,21,Iamad Boari,Italy,female,2016,pole sport,senior,individual,preliminary
+41.05,22,Kiyoko Okamoto,Japan,female,2016,pole sport,senior,individual,preliminary
+40.7,23,Aleksandra Bednarz,Poland,female,2016,pole sport,senior,individual,preliminary
+40.5,24,Alessandra Rancan True,Brazil,female,2016,pole sport,senior,individual,preliminary
+39.75,25,Kelly Navarro,Colombia,female,2016,pole sport,senior,individual,preliminary
+39.25,26,Florencia Forquera,Argentina,female,2016,pole sport,senior,individual,preliminary
+35.2,27,Natasa Belic,Serbia,female,2016,pole sport,senior,individual,preliminary
+33.75,28,Miriam Brinksma,The Netherlands,female,2016,pole sport,senior,individual,preliminary
+31.95,29,Zarina Madelaine Breitman,Argentina,female,2016,pole sport,senior,individual,preliminary
+28.35,30,Paola Andrea Martin,Colombia,female,2016,pole sport,senior,individual,preliminary
+28.3,31,Tine Poullet,Belgium,female,2016,pole sport,senior,individual,preliminary
+21.75,32,Milenka Paulina Pizarro Bossa,Chile,female,2016,pole sport,senior,individual,preliminary
+18.65,33,Melanie Martin,South Africa,female,2016,pole sport,senior,individual,preliminary
+0.0,34,Sandra de Sloovere,Switzerland,female,2016,pole sport,senior,individual,preliminary
+48.9,1,Polina Pabel,Russia,female,2017,pole sport,junior,individual,preliminary
+43.0,2,Evelina Bragina,Russia,female,2017,pole sport,junior,individual,preliminary
+38.1,3,Nikou Kai,Japan,female,2017,pole sport,junior,individual,preliminary
+36.8,4,Annika Winkler,Germany,female,2017,pole sport,junior,individual,preliminary
+35.5,5,Roni Tamir,Israel,female,2017,pole sport,junior,individual,preliminary
+32.6,6,Chantal van Oevelen,Netherlands,female,2017,pole sport,junior,individual,preliminary
+32.5,7,Eva Alemany Modol,Spain,female,2017,pole sport,junior,individual,preliminary
+31.8,8,Kyra Ayling,South Africa,female,2017,pole sport,junior,individual,preliminary
+31.6,9,Yelyzeveta Grebenuik,Ukraine,female,2017,pole sport,junior,individual,preliminary
+31.2,10,Carolina Arlandez Zoyo,Spain,female,2017,pole sport,junior,individual,preliminary
+29.8,11,Paola Viciconty,Mexico,female,2017,pole sport,junior,individual,preliminary
+29.5,12,Ella Shalit,Israel,female,2017,pole sport,junior,individual,preliminary
+28.5,13,Zsófia Sebesta,Hungary,female,2017,pole sport,junior,individual,preliminary
+50.2,14,Zoë Timmermans,Netherlands,female,2017,pole sport,junior,individual,preliminary
+22.2,15,Laura Viloria,Venezuela,female,2017,pole sport,junior,individual,preliminary
+12.0,16,Luna di Vittoria,Germany,female,2017,pole sport,junior,individual,preliminary
+5.0,17,Kanna Taniguchi,Japan,female,2017,pole sport,junior,individual,preliminary
+49.3,1,Moisés Ahumada Reyes,Mexico,male,2017,pole sport,senior,individual,preliminary
+41.9,2,Christian Fernandez,Spain,male,2017,pole sport,senior,individual,preliminary
+0.0,3,Sebastian Callejas Hernandez,Colombia,male,2017,pole sport,senior,individual,preliminary
+40.6,4,Naoto Araya,Japan,male,2017,pole sport,senior,individual,preliminary
+40.3,5,Sergio Ivan Chan Baños,Mexico,male,2017,pole sport,senior,individual,preliminary
+39.8,6,Hao Zhang,China,male,2017,pole sport,senior,individual,preliminary
+39.6,7,Guilherme Ambrósio,Brazil,male,2017,pole sport,senior,individual,preliminary
+39.0,8,Kazuya Naka,Japan,male,2017,pole sport,senior,individual,preliminary
+37.4,9,Vecislavs Ruza,Sweden,male,2017,pole sport,senior,individual,preliminary
+35.9,10,Denis Terrones Salinas,Spain,male,2017,pole sport,senior,individual,preliminary
+34.2,11,Lei Jiang,China,male,2017,pole sport,senior,individual,preliminary
+31.6,12,Filipe Saboia,Brazil,male,2017,pole sport,senior,individual,preliminary
+28.3,13,Hendrik de Jonge,Netherlands,male,2017,pole sport,senior,individual,preliminary
+23.1,14,Jose Sotillo,Venezuela,male,2017,pole sport,senior,individual,preliminary
+21.4,15,Prakorn Weeraphon,Thailand,male,2017,pole sport,senior,individual,preliminary
+19.4,16,Roman Konanchuk,Germany,male,2017,pole sport,senior,individual,preliminary
+16.8,17,Nick Krämer,Germany,male,2017,pole sport,senior,individual,preliminary
+16.2,18,Hennadii Sierokurov,Ukraine,male,2017,pole sport,senior,individual,preliminary
+7.5,19,Maurits Kersten,Netherlands,male,2017,pole sport,senior,individual,preliminary
+48.1,1,Dana Castillo,Mexico,female,2017,pole sport,novice,individual,preliminary
+45.5,2,Ignacia Oyarzo Mella,Chile,female,2017,pole sport,novice,individual,preliminary
+44.9,3,Anzhelika Mikutaitis,Russia,female,2017,pole sport,novice,individual,preliminary
+44.6,4,Romane Moscaritolo,Switzerland,female,2017,pole sport,novice,individual,preliminary
+44.5,5,Alonya Fomenko,Russia,female,2017,pole sport,novice,individual,preliminary
+44.3,6,Alba Parro Alonso,Spain,female,2017,pole sport,novice,individual,preliminary
+44.1,7,Alicji Jaruk,Poland,female,2017,pole sport,novice,individual,preliminary
+43.1,8,Demi Brama,Netherlands,female,2017,pole sport,novice,individual,preliminary
+41.3,9,Regina Andree Meza Huerta,Mexico,female,2017,pole sport,novice,individual,preliminary
+40.4,10,Daryna Kulich,Ukraine,female,2017,pole sport,novice,individual,preliminary
+39.4,11,Alba Domingo Venegas,Spain,female,2017,pole sport,novice,individual,preliminary
+38.8,12,Sorami Fujioka,Japan,female,2017,pole sport,novice,individual,preliminary
+38.7,13,Karina Lukash,Ukraine,female,2017,pole sport,novice,individual,preliminary
+38.7,14,Valentina Gonzalez,Chile,female,2017,pole sport,novice,individual,preliminary
+38.7,15,Camila Armas,Venezuela,female,2017,pole sport,novice,individual,preliminary
+35.8,16,Lydia Kanellopoulou,Greece,female,2017,pole sport,novice,individual,preliminary
+34.5,17,Anna László,Hungary,female,2017,pole sport,novice,individual,preliminary
+32.1,18,Irini Babuin,Greece,female,2017,pole sport,novice,individual,preliminary
+32.0,19,Janne Jacobs,Netherlands,female,2017,pole sport,novice,individual,preliminary
+29.7,20,Ciari Iwasaki,Japan,female,2017,pole sport,novice,individual,preliminary
+47.0,1,Masako Aoki,Japan,female,2017,pole sport,masters 40+,individual,preliminary
+43.9,2,Orsolya Kelemen,Hungary,female,2017,pole sport,masters 40+,individual,preliminary
+39.3,3,Silvia Floridi,Spain,female,2017,pole sport,masters 40+,individual,preliminary
+38.5,4,Raquel Ballesta,Spain,female,2017,pole sport,masters 40+,individual,preliminary
+37.8,5,Benita Bouwer,South Africa,female,2017,pole sport,masters 40+,individual,preliminary
+36.2,6,Yvette Austin,United Kingdom,female,2017,pole sport,masters 40+,individual,preliminary
+35.0,7,Clare Filer,South Africa,female,2017,pole sport,masters 40+,individual,preliminary
+34.7,8,Marcela Ramirez,Chile,female,2017,pole sport,masters 40+,individual,preliminary
+32.0,9,IMelda Cabello Larios,Mexico,female,2017,pole sport,masters 40+,individual,preliminary
+30.1,10,Marcia Zarate Almendras,Chile,female,2017,pole sport,masters 40+,individual,preliminary
+30.1,11,Wiebke Schröder,Germany,female,2017,pole sport,masters 40+,individual,preliminary
+25.7,12,Laure Quiquempois,Belgium,female,2017,pole sport,masters 40+,individual,preliminary
+17.5,13,Patricia Goussens,Belgium,female,2017,pole sport,masters 40+,individual,preliminary
+16.4,14,Haruna Shiiba,Japan,female,2017,pole sport,masters 40+,individual,preliminary
+11.9,15,Man Wai Fong,Hong Kong,female,2017,pole sport,masters 40+,individual,preliminary
+11.8,16,Sofia Kaltaki,Greece,female,2017,pole sport,masters 40+,individual,preliminary
+5.8,17,Jeanette Jankowski,Germany,female,2017,pole sport,masters 40+,individual,preliminary
+69.75,1,Yvonne Haug,Germany,mixed,2017,artistic pole,masters 50+,individual,finals
+60.5,2,Edi Reis,Brazil,mixed,2017,artistic pole,masters 50+,individual,finals
+54.5,3,Nora Susana Ordonez Lopez,Mexico,mixed,2017,artistic pole,masters 50+,individual,finals
+36.5,4,Lex Hart,Canada,mixed,2017,artistic pole,masters 50+,individual,finals
+31.5,5,Irina Zelenkova ,Russia,mixed,2017,artistic pole,masters 50+,individual,finals
+30.5,6,Tintii Mikkonen,Finland,mixed,2017,artistic pole,masters 50+,individual,finals
+90.75,1,Polina Volchek & Dimitry Politov,USA,mixed,2017,artistic pole,senior,doubles,finals
+74.0,2,Diego Novello & Stefania Cremaschi,Italy,mixed,2017,artistic pole,senior,doubles,finals
+73.25,3,Elisenda Font Gomez & Xavier Estragues Casanovas,Spain,mixed,2017,artistic pole,senior,doubles,finals
+60.35,4,Karen Urquart & Leeann Ball,Canada,mixed,2017,artistic pole,senior,doubles,finals
+66.75,5,Sanni Erämies & Pilu Pekari,Finland,mixed,2017,artistic pole,senior,doubles,finals
+53.75,6,Anastasiia Lisichkina &	Viktoriia Matveichuk,Russia,mixed,2017,artistic pole,senior,doubles,finals
+44.5,7,Ellamari Lassila & Henri Heikenheimo,Finland,mixed,2017,artistic pole,senior,doubles,finals
+33.25,8,Aya Mugita & Shoko Sonoda,Japan,mixed,2017,artistic pole,senior,doubles,finals
+81.0,1,Denis Terrones Salinas,Spain,male,2017,artistic pole,senior,individual,finals
+72.25,2,Moisés Ahumada Reyes,Mexico,male,2017,artistic pole,senior,individual,finals
+72.0,3,Jorge Lera,Norway,male,2017,artistic pole,senior,individual,finals
+53.5,4,Costanzo Marro,Italy,male,2017,artistic pole,senior,individual,finals
+81.5,1,Yu Meng Zhang,China,female,2017,artistic pole,senior,individual,finals
+81.5,2,Polina Volchek,USA,female,2017,artistic pole,senior,individual,finals
+81.25,3,Hanka Venselaar,Netherlands,female,2017,artistic pole,senior,individual,finals
+70.0,4,Erika Gonzalez del Pliego,Mexico,female,2017,artistic pole,senior,individual,finals
+69.5,5,Noémi Marosvölgyi,Hungary,female,2017,artistic pole,senior,individual,finals
+69.0,6,Viktoriia Chapaikina,Russia,female,2017,artistic pole,senior,individual,finals
+67.75,7,Melanie Martin,South Africa,female,2017,artistic pole,senior,individual,finals
+67.0,8,Simona Narcisi,Italy,female,2017,artistic pole,senior,individual,finals
+63.0,9,Hanna Knihtilä,Finland,female,2017,artistic pole,senior,individual,finals
+60.0,10,Marie Gatell Mateu,Spain,female,2017,artistic pole,senior,individual,finals
+47.725,11,Ibaraki Ryoko,New Zealand,female,2017,artistic pole,senior,individual,finals
+31.9,1,Albert Amores Roig,Spain,male,2017,pole sport,novice,individual,finals
+29.9,2,Daniil Penchukov,Russia,male,2017,pole sport,novice,individual,finals
+46.9,1,Dana Castillo,Mexico,female,2017,pole sport,novice,individual,finals
+44.1,2,Ignacia Oyarzo Mella,Chile,female,2017,pole sport,novice,individual,finals
+43.8,3,Regina Andree Meza Huerta,Mexico,female,2017,pole sport,novice,individual,finals
+43.1,4,Alicji Jaruk,Poland,female,2017,pole sport,novice,individual,finals
+42.6,5,Romane Moscaritolo,Switzerland,female,2017,pole sport,novice,individual,finals
+42.2,6,Demi Brama,Netherlands,female,2017,pole sport,novice,individual,finals
+40.9,7,Alonya Fomenko,Russia,female,2017,pole sport,novice,individual,finals
+39.3,8,Alba Parra Alonso,Spain,female,2017,pole sport,novice,individual,finals
+39.2,9,Anzehelika Mikutaitus,Russia,female,2017,pole sport,novice,individual,finals
+38.1,10,Daryna Kulich,Ukraine,female,2017,pole sport,novice,individual,finals
+44.3,1,Jesús Avalos Orozco,Mexico,male,2017,pole sport,junior,individual,finals
+25.1,2,Alex Aufderklamm,Italy,male,2017,pole sport,junior,individual,finals
+30.9,1,Ivanna Torres Sánchez & Ximena Marie Meza Huerta,Mexico,female,2017,pole sport,junior,doubles,finals
+45.6,1,Polina Pabel,Russia,female,2017,pole sport,junior,individual,finals
+45.1,2,Annika Winkler,Germany,female,2017,pole sport,junior,individual,finals
+44.6,3,Evelina Bragina,Russia,female,2017,pole sport,junior,individual,finals
+38.5,4,Carolina Arlendez Zoyo,Spain,female,2017,pole sport,junior,individual,finals
+35.6,5,Nikou Kai,Japan,female,2017,pole sport,junior,individual,finals
+33.9,6,Eva Alemany Modol,Spain,female,2017,pole sport,junior,individual,finals
+33.2,7,Kyra Ayling,South Africa,female,2017,pole sport,junior,individual,finals
+32.0,8,Chantal van Oevelen,Netherlands,female,2017,pole sport,junior,individual,finals
+30.7,9,Roni Tamir,Israel,female,2017,pole sport,junior,individual,finals
+28.5,10,Yelyzeveta Grebenuik,Ukraine,female,2017,pole sport,junior,individual,finals
+27.8,1,Monserrat Hermida Garcia,Spain,female,2017,para pole,senior,doubles,preliminary
+21.1,2,Erin Clark,Spain,female,2017,para pole,senior,doubles,preliminary
+10.7,3,Therese Moen Heimdahl,Norway,female,2017,para pole,senior,doubles,preliminary
+55.3,1,Polina Volchek & Dimitry Politov,USA,mixed,2017,pole sport,senior,doubles,preliminary
+51.4,2,Maria Eugania Plaza Ortega & Sergio Ivan Chan Baños,Mexico,mixed,2017,pole sport,senior,doubles,preliminary
+45.3,3,Takemoto Keiko & Mori Maki,Japan,mixed,2017,pole sport,senior,doubles,preliminary
+44.9,4,Erika Ortega & Rodrigo Alcatara,Mexico,mixed,2017,pole sport,senior,doubles,preliminary
+44.1,5,Julia Wah & Bianca Schumayer,Germany,mixed,2017,pole sport,senior,doubles,preliminary
+44.1,6,Jennifer Kascsák & Tifani Makovinyi,Hungary,mixed,2017,pole sport,senior,doubles,preliminary
+42.9,7,Kseniia Ivliushkina & Ekaterina Ilindeva,Russia,mixed,2017,pole sport,senior,doubles,preliminary
+41.7,8,Anna Palou & Irina Vorobyeva,Spain,mixed,2017,pole sport,senior,doubles,preliminary
+41.0,9,Jude Parrett & Amy Davidson,Australia,mixed,2017,pole sport,senior,doubles,preliminary
+39.8,10,Mari Marte Marthinsen & Madeleine Barin,Norway,mixed,2017,pole sport,senior,doubles,preliminary
+37.1,11,Marina Rusakova & Viktoria Trenina,Russia,mixed,2017,pole sport,senior,doubles,preliminary
+36.9,12,Maria Gatell Mateu & Denis Terrones Salinas,Spain,mixed,2017,pole sport,senior,doubles,preliminary
+32.6,13,Josien Hoekstra & Tirsa Hagen,Netherlands,mixed,2017,pole sport,senior,doubles,preliminary
+32.3,14,Javier Ramirez & Mami Kimura,Japan,mixed,2017,pole sport,senior,doubles,preliminary
+31.0,15,Aneta Prokopcová & Pavlina Klepetková,Czech Republic,mixed,2017,pole sport,senior,doubles,preliminary
+30.9,16,Emilia Porfiri & Antonella Debasto,Argentina,mixed,2017,pole sport,senior,doubles,preliminary
+26.9,17,Irina Mauch & Albina Kreider,Germany,mixed,2017,pole sport,senior,doubles,preliminary
+26.1,18,Dieuwke Hupkes & Susy Niamut,Netherlands,mixed,2017,pole sport,senior,doubles,preliminary
+24.0,19,Marta Kielak & Weronika Lasak,Poland,mixed,2017,pole sport,senior,doubles,preliminary
+23.9,20,Maria Pineda & Maria Gonzalez,Venezuela,mixed,2017,pole sport,senior,doubles,preliminary
+56.7,1,Rafaela Montanaro,USA,female,2017,pole sport,senior,individual,preliminary
+53.7,2,Noémi Marosvölgyi,Hungary,female,2017,pole sport,senior,individual,preliminary
+51.9,3,Maria Eugenia Plaza Ortega,Mexico,female,2017,pole sport,senior,individual,preliminary
+51.0,4,Polina Volchek,USA,female,2017,pole sport,senior,individual,preliminary
+50.1,5,Marina Yamaguchi,Japan,female,2017,pole sport,senior,individual,preliminary
+47.8,6,Svetlana Nkonova,Russia,female,2017,pole sport,senior,individual,preliminary
+47.4,7,Anna von Hoyningen Huene,Canada,female,2017,pole sport,senior,individual,preliminary
+47.8,8,Natalia Knysheva,Russia,female,2017,pole sport,senior,individual,preliminary
+47.0,9,Erika Gonzalez del Pliego,Mexico,female,2017,pole sport,senior,individual,preliminary
+46.0,10,Irina Vorobyeva,Spain,female,2017,pole sport,senior,individual,preliminary
+45.7,11,Lea Roth,Germany,female,2017,pole sport,senior,individual,preliminary
+45.6,12,Sandra Torro,Colombia,female,2017,pole sport,senior,individual,preliminary
+45.3,13,Jordana de Haro Cano,Spain,female,2017,pole sport,senior,individual,preliminary
+43.7,14,Alessandra Rancan True,Brazil,female,2017,pole sport,senior,individual,preliminary
+42.9,15,Luciana Ongaro,Brazil,female,2017,pole sport,senior,individual,preliminary
+42.3,16,Sara Hedman,Sweden,female,2017,pole sport,senior,individual,preliminary
+42.2,17,Elise Dahl-Hansen,Norway,female,2017,pole sport,senior,individual,preliminary
+42.1,18,Melanie Martin,South Africa,female,2017,pole sport,senior,individual,preliminary
+39.8,19,Hanna Antonova,Ukraine,female,2017,pole sport,senior,individual,preliminary
+37.6,20,Kseniia Kochenkova,Greece,female,2017,pole sport,senior,individual,preliminary
+37.3,21,Isabella Amengual,Venezuela,female,2017,pole sport,senior,individual,preliminary
+36.9,22,Rosalyn Mow,Canada,female,2017,pole sport,senior,individual,preliminary
+36.6,23,Sandra Jung,Germany,female,2017,pole sport,senior,individual,preliminary
+34.5,24,Annaleen Freriksen,Netherlands,female,2017,pole sport,senior,individual,preliminary
+34.1,25,Embeth McMillan,South Africa,female,2017,pole sport,senior,individual,preliminary
+32.3,26,Iamad Boari,Italy,female,2017,pole sport,senior,individual,preliminary
+32.3,27,Rita Conte,Italy,female,2017,pole sport,senior,individual,preliminary
+29.6,28,Eloise Connor,Norway,female,2017,pole sport,senior,individual,preliminary
+29.0,29,Kanako Suda,Japan,female,2017,pole sport,senior,individual,preliminary
+28.8,30,Wonji Her,South Korea,female,2017,pole sport,senior,individual,preliminary
+28.1,31,Ivania Reyes Noguera,Chile,female,2017,pole sport,senior,individual,preliminary
+28.1,32,Kamila Cyniak,Poland,female,2017,pole sport,senior,individual,preliminary
+27.3,33,Adriana Sanchez,Peru,female,2017,pole sport,senior,individual,preliminary
+26.0,34,Anna Simonyi,Hungary,female,2017,pole sport,senior,individual,preliminary
+22.4,35,Marta Stachowicz,Poland,female,2017,pole sport,senior,individual,preliminary
+21.0,36,Tetiana Melnychenko,Ukraine,female,2017,pole sport,senior,individual,preliminary
+21.1,37,Tine Poullet,Belgium,female,2017,pole sport,senior,individual,preliminary
+21.0,38,Aggeliki Rerra,Greece,female,2017,pole sport,senior,individual,preliminary
+20.6,39,Zhang Yu Meng,China,female,2017,pole sport,senior,individual,preliminary
+17.5,40,Geissa Peralta,Venezuela,female,2017,pole sport,senior,individual,preliminary
+17.0,41,Zhanna Mahlysh,Belarus,female,2017,pole sport,senior,individual,preliminary
+13.7,42,Savannah Poppe,Netherlands,female,2017,pole sport,senior,individual,preliminary
+9.8,43,Ana Kalhiman,Israel,female,2017,pole sport,senior,individual,preliminary
+6.6,44,Jiang Man,China,female,2017,pole sport,senior,individual,preliminary
+25.1,1,Yoshichika Kugimiya,Japan,male,2017,pole sport,masters 50+,individual,finals
+8.4,2,Juan Luis Oubel-Barba,Spain,male,2017,pole sport,masters 50+,individual,finals
+47.6,1,Yvonne Haug,Germany,female,2017,pole sport,masters 50+,individual,finals
+38.1,2,Nora Susana Ordonez Lopez,Mexico,female,2017,pole sport,masters 50+,individual,finals
+36.2,3,Mika Higuchi,Japan,female,2017,pole sport,masters 50+,individual,finals
+27.5,4,Edi Reis,Brazil,female,2017,pole sport,masters 50+,individual,finals
+22.2,5,Lisa Agliano,USA,female,2017,pole sport,masters 50+,individual,finals
+20.4,6,Sabine Dworak,USA,female,2017,pole sport,masters 50+,individual,finals
+19.6,7,Aiko Hamamoto,Japan,female,2017,pole sport,masters 50+,individual,finals
+18.6,8,Monica Van Beek,Netherlands,female,2017,pole sport,masters 50+,individual,finals
+16.7,9,Bettine Sarton,Netherlands,female,2017,pole sport,masters 50+,individual,finals
+22.5,1,Seiichi Yamazaki,Japan,male,2017,pole sport,masters 40+,individual,finals
+47.5,1,Benita Bouwer,South Africa,female,2017,pole sport,masters 40+,individual,finals
+45.4,2,Masaki Aoki,Japan,female,2017,pole sport,masters 40+,individual,finals
+40.2,3,Orsolya Kelemen,Hungary,female,2017,pole sport,masters 40+,individual,finals
+38.3,4,Raquel Ballesta,Spain,female,2017,pole sport,masters 40+,individual,finals
+37.1,5,Silvia Floridi,Spain,female,2017,pole sport,masters 40+,individual,finals
+30.2,6,Yvette Austin,UK,female,2017,pole sport,masters 40+,individual,finals
+30.0,7,Marcela Ramirez,Chile,female,2017,pole sport,masters 40+,individual,finals
+27.9,8,Wiebke Shröder,Germany,female,2017,pole sport,masters 40+,individual,finals
+27.9,9,Marcia Zarate Almendras,Chile,female,2017,pole sport,masters 40+,individual,finals
+19.0,10,Imelda Cabello Larios,Mexico,female,2017,pole sport,masters 40+,individual,finals
+18.6,11,Clare Filer,South Africa,female,2017,pole sport,masters 40+,individual,finals
+56.0,1,Polina Volchek & Dimitry Politov,USA,mixed,2017,pole sport,senior,doubles,finals
+55.1,2,Erika Ortega & Rodrigo Alcantara,Mexico,mixed,2017,pole sport,senior,doubles,finals
+52.3,3,Maria Eugania Plaza Ortega & Sergio Ivan Chan Baños,Mexico,mixed,2017,pole sport,senior,doubles,finals
+49.1,4,Julia Wahl & Bianca Shumayer,Germany,mixed,2017,pole sport,senior,doubles,finals
+46.4,5,Anna Palou & Irina Vorobyeva,Spain,mixed,2017,pole sport,senior,doubles,finals
+44.4,6,Jennifer Kascsak & Tifani Makovinyi,Hungary,mixed,2017,pole sport,senior,doubles,finals
+44.3,7,Kseniia Ivvliushkina & Ekaterina Ilindeeva,Russia,mixed,2017,pole sport,senior,doubles,finals
+41.6,8,Jude Perrett & Amy Davidson,Australia,mixed,2017,pole sport,senior,doubles,finals
+40.2,9,Takemoto Keiko & Maki Mori,Japan,mixed,2017,pole sport,senior,doubles,finals
+40.1,10,Marina Rusakova & Viktoriia Trenina,Russia,mixed,2017,pole sport,senior,doubles,finals
+30.0,11,Mari Marte Marthinsen & Madeleine Barin,Norway,mixed,2017,pole sport,senior,doubles,finals
+52.9,1,Moises Ahumade Reyes,Mexico,male,2017,pole sport,senior,individual,finals
+52.8,2,Naoto Araya,Japan,male,2017,pole sport,senior,individual,finals
+50.4,3,Guilherme Ambrósio,Brazil,male,2017,pole sport,senior,individual,finals
+47.6,4,Sergio Ivan Chan Baños,Mexico,male,2017,pole sport,senior,individual,finals
+45.4,5,Vecislava Ruza,Sweden,male,2017,pole sport,senior,individual,finals
+44.4,6,Kazuya Naka,Japan,male,2017,pole sport,senior,individual,finals
+42.4,7,Denis Terrones Salinas,Spain,male,2017,pole sport,senior,individual,finals
+41.0,8,Sebastian Hernandez Callejas,Colombia,male,2017,pole sport,senior,individual,finals
+31.5,9,Christian Fernandez,Spain,male,2017,pole sport,senior,individual,finals
+31.0,10,Hao ZHang,China,male,2017,pole sport,senior,individual,finals
+56.3,1,Marina Yamaguchi,Japan,female,2017,pole sport,senior,individual,finals
+55.8,2,Rafaela Montanaro,USA,female,2017,pole sport,senior,individual,finals
+55.6,3,Natalia Knysheva,Russia,female,2017,pole sport,senior,individual,finals
+50.7,4,Polina Volchek,USA,female,2017,pole sport,senior,individual,finals
+50.2,5,Maria Eugania Plaza Ortega,Mexico,female,2017,pole sport,senior,individual,finals
+49.2,6,Lea Roth,Germany,female,2017,pole sport,senior,individual,finals
+48.4,7,Erika Gonzalez del Pliego,Mexico,female,2017,pole sport,senior,individual,finals
+47.3,8,Anna Von Hoyningen Huene,Canada,female,2017,pole sport,senior,individual,finals
+46.8,9,Irina Vorobyeva,Spain,female,2017,pole sport,senior,individual,finals
+45.4,10,Svetlana Nikonova,Russia,female,2017,pole sport,senior,individual,finals
+42.8,11,Noémi Marosvölgyi,Hungary,female,2017,pole sport,senior,individual,finals
+33.9,12,Sandra Toro,Colombia,female,2017,pole sport,senior,individual,finals
+33.9,1,Zoë Timmermans,Netherlands,female,2017,ultra pole,senior,individual,finals
+33.9,2,Maria Eugania Plaza Ortega,Mexico,female,2017,ultra pole,senior,individual,finals
+33.9,3,Diana Gomez,Spain,female,2017,ultra pole,senior,individual,finals
+33.9,1,Sergio Ivan Chan Banos,Mexico,male,2017,ultra pole,senior,individual,finals
+33.9,2,Lei Jiang,China,male,2017,ultra pole,senior,individual,finals
+33.9,3,Yuta Nishizumi,Japan,male,2017,ultra pole,senior,individual,finals
+58.9,1,Marina Yamaguchi,Japan,female,2018,pole sport,senior,individual,finals
+57.9,2,María Eugenia Plaza,Mexico,female,2018,pole sport,senior,individual,finals
+56.2,3,Erika Gonzalez del Pliego Revilla,Mexico,female,2018,pole sport,senior,individual,finals
+54.7,4,Natalia Knysheva,Russia,female,2018,pole sport,senior,individual,finals
+53.2,5,Sandra Jung,Germany,female,2018,pole sport,senior,individual,finals
+52.0,6,Oona Kivelä,Finland,female,2018,pole sport,senior,individual,finals
+51.7,7,Anna von Hoyningen Huene,Canada,female,2018,pole sport,senior,individual,finals
+50.7,8,Noémi Marosvölgyi,Hungary,female,2018,pole sport,senior,individual,finals
+50.2,9,Alessandra Rancan,Brazil,female,2018,pole sport,senior,individual,finals
+47.2,10,Svetlana Nikonova,Russia,female,2018,pole sport,senior,individual,finals
+46.8,11,Lydia Kollia Stavroula,Greece,female,2018,pole sport,senior,individual,finals
+46.4,12,Elise Dahl-Hansen,Norway,female,2018,pole sport,senior,individual,finals
+46.2,13,Noemi Basile,Italy,female,2018,pole sport,senior,individual,finals
+50.2,14,Lea Roth,Germany,female,2018,pole sport,senior,individual,finals
+42.9,15,Réka Bökfi,Hungary,female,2018,pole sport,senior,individual,finals
+42.9,16,Isa Lopez Frias,Spain ,female,2018,pole sport,senior,individual,finals
+42.7,17,Zuzanna Kijanowska,Poland,female,2018,pole sport,senior,individual,finals
+42.4,18,Dineke Minten,Nertherlands,female,2018,pole sport,senior,individual,finals
+41.9,19,Luciana Onargo,Brazil,female,2018,pole sport,senior,individual,finals
+39.7,20,Kanako Suda,Japan,female,2018,pole sport,senior,individual,finals
+38.9,21,Sandra Toro,Colombia,female,2018,pole sport,senior,individual,finals
+38.8,22,Julie Fowler,South Africa,female,2018,pole sport,senior,individual,finals
+0.0,23,Marta Haliniak,Poland,female,2018,pole sport,senior,individual,finals
+37.5,24,Lisann Lumet,Estonia,female,2018,pole sport,senior,individual,finals
+36.8,25,Irina Delevaque,Romania,female,2018,pole sport,senior,individual,finals
+35.9,26,Soledad Seara,Argentina,female,2018,pole sport,senior,individual,finals
+35.0,27,Anna Palou,Spain,female,2018,pole sport,senior,individual,finals
+33.8,28,Clara Jonsson,Sweden,female,2018,pole sport,senior,individual,finals
+33.7,29,Tine Poullet,Belgium,female,2018,pole sport,senior,individual,finals
+33.3,30,Bjørg Margrethe Granly ,Norway,female,2018,pole sport,senior,individual,finals
+33.2,31,Aude Ravey,Switzerland,female,2018,pole sport,senior,individual,finals
+32.9,32,Belinda van Ommen,Netherlands,female,2018,pole sport,senior,individual,finals
+31.9,33,Neta Lee Levy,Israel,female,2018,pole sport,senior,individual,finals
+31.4,34,Ingrid Lauroz,France,female,2018,pole sport,senior,individual,finals
+31.2,35,Romana Zahalkova,Czech Republic,female,2018,pole sport,senior,individual,finals
+29.5,36,Geissa Peralta,Venezuela ,female,2018,pole sport,senior,individual,finals
+28.0,37,Jenni Multisilta,Finland,female,2018,pole sport,senior,individual,finals
+27.4,38,Kely Alvarez,Colombia,female,2018,pole sport,senior,individual,finals
+26.3,39,Xing Si Qian,China,female,2018,pole sport,senior,individual,finals
+24.8,40,Hila Hassidim,Israel,female,2018,pole sport,senior,individual,finals
+22.5,41,Jasmine Scheffel,USA,female,2018,pole sport,senior,individual,finals
+17.3,42,Silvia Schweiger,Austria,female,2018,pole sport,senior,individual,finals
+10.3,43,Zhang Yu Meng,China,female,2018,pole sport,senior,individual,finals
+62.5,1,Vecislavs Ruza,Sweden,male,2018,pole sport,senior,individual,finals
+61.7,2,Moisés Ahumada Reyes,Mexico,male,2018,pole sport,senior,individual,finals
+52.3,3,Filipe Saboia,Brazil,male,2018,pole sport,senior,individual,finals
+50.5,4,Jiang Lei,China,male,2018,pole sport,senior,individual,finals
+47.8,5,Guillherme Ambrósio,Brazil,male,2018,pole sport,senior,individual,finals
+45.6,6,Denis Terrones,Spain,male,2018,pole sport,senior,individual,finals
+41.3,7,Carlos Corro,Mexico,male,2018,pole sport,senior,individual,finals
+36.4,8,Kazuya Naka,Japan,male,2018,pole sport,senior,individual,finals
+34.4,9,William Prieto,Colombia,male,2018,pole sport,senior,individual,finals
+33.4,10,Julio Marin Clevel,Colombia,male,2018,pole sport,senior,individual,finals
+31.9,11,Sondre Heimlid,Norway,male,2018,pole sport,senior,individual,finals
+31.8,12,Filiberto Isculpi,Spain,male,2018,pole sport,senior,individual,finals
+28.9,13,Nick Kramer,Germany,male,2018,pole sport,senior,individual,finals
+21.9,14,Roman Konanchuk,Germany,male,2018,pole sport,senior,individual,finals
+20.7,15,Jonathan Manzanares,USA,male,2018,pole sport,senior,individual,finals
+20.4,16,Alexander Shakirov,Russia,male,2018,pole sport,senior,individual,finals
+8.6,17,Máté Efraim Kovács,Hungary,male,2018,pole sport,senior,individual,finals
+8.0,18,Joao Afonso,Portugal,male,2018,pole sport,senior,individual,finals
+42.9,1,Irina Vorobyeva,Spain,female,2018,pole sport,masters 40+,individual,finals
+42.6,2,Masako Akao,Japan,female,2018,pole sport,masters 40+,individual,finals
+39.7,3,Akiko Hamada,Japan,female,2018,pole sport,masters 40+,individual,finals
+39.2,4,Erika Ortega ,Mexico ,female,2018,pole sport,masters 40+,individual,finals
+34.6,5,Raquel Ballesta,Spain,female,2018,pole sport,masters 40+,individual,finals
+33.6,6,Ryoko Ibaraki,New Zealand,female,2018,pole sport,masters 40+,individual,finals
+30.0,7,Svetlana Podolskaya,Russia,female,2018,pole sport,masters 40+,individual,finals
+29.7,8,Laure Quiquempois,Brazil,female,2018,pole sport,masters 40+,individual,finals
+28.5,9,Celine Reverchon,Switzerland,female,2018,pole sport,masters 40+,individual,finals
+27.6,10,Wiebke Schröder,Germany,female,2018,pole sport,masters 40+,individual,finals
+26.1,11,Sandra Kensy,Germany,female,2018,pole sport,masters 40+,individual,finals
+25.9,12,Fong Man Wai,Hong Kong,female,2018,pole sport,masters 40+,individual,finals
+24.6,13,Maura Lourdes Gasca Cuevas,Mexico,female,2018,pole sport,masters 40+,individual,finals
+24.6,14,Floortje Rodermans,Netherlands,female,2018,pole sport,masters 40+,individual,finals
+22.8,15,Lucie Garbienova,Czech Republic,female,2018,pole sport,masters 40+,individual,finals
+22.0,16,Monica Hernandez Zamora,Netherlands,female,2018,pole sport,masters 40+,individual,finals
+21.6,17,Patricia Goussens,Belgium,female,2018,pole sport,masters 40+,individual,finals
+20.3,18,Ana Looser,Romania,female,2018,pole sport,masters 40+,individual,finals
+19.4,19,Virginia Tarabella,Italy,female,2018,pole sport,masters 40+,individual,finals
+19.2,20,Sandrine Taravel,France,female,2018,pole sport,masters 40+,individual,finals
+16.7,21,Agnieszka Borkowska,Poland,female,2018,pole sport,masters 40+,individual,finals
+11.8,22,Ila Reed,USA,female,2018,pole sport,masters 40+,individual,finals
+7.8,23,Keri Graham,UK,female,2018,pole sport,masters 40+,individual,finals
+39.3,1,Sergio Chan,Mexico,male,2018,pole sport,masters 40+,individual,finals
+39.3,2,Seiichi Yamazaki,Japan,male,2018,pole sport,masters 40+,individual,finals
+39.3,3,Sami Huhtakallio,Finland,male,2018,pole sport,masters 40+,individual,finals
+39.3,4,Takashi Minami,Japan,male,2018,pole sport,masters 40+,individual,finals
+39.3,1,Yvonne Haug,Germany,female,2018,pole sport,masters 50+,individual,finals
+39.3,2,Mika Higuchi,Japan,female,2018,pole sport,masters 50+,individual,finals
+39.3,3,Renee Payton,USA,female,2018,pole sport,masters 50+,individual,finals
+39.3,4,Nora Susana Ordoñez Lopez,Mexico,female,2018,pole sport,masters 50+,individual,finals
+39.3,5,Ivana Ferdinandova,Czech Republic,female,2018,pole sport,masters 50+,individual,finals
+39.3,6,Edgai dos Reis Gallego,Brazil,female,2018,pole sport,masters 50+,individual,finals
+39.3,7,Gyöngyi Bódi Tiborné,Hungary,female,2018,pole sport,masters 50+,individual,finals
+39.3,8,Monica van Beek,Netherlands,female,2018,pole sport,masters 50+,individual,finals
+39.3,9,Wu Jian Rong,China,female,2018,pole sport,masters 50+,individual,finals
+39.3,10,Sally Drake,UK,female,2018,pole sport,masters 50+,individual,finals
+39.3,11,Leung Suk Fong Peggy,Hong Kong,female,2018,pole sport,masters 50+,individual,finals
+39.3,12,Martha Zwemer,USA,female,2018,pole sport,masters 50+,individual,finals
+23.1,1,Yoshichika Kugimiya,Japan,male,2018,pole sport,masters 50+,individual,finals
+12.6,2,Fabian Scarano,Denmark,male,2018,pole sport,masters 50+,individual,finals
+6.4,3,Juan Luis Oubel Barba,Spain,male,2018,pole sport,masters 50+,individual,finals
+52.4,1,Aleksandra Makarova,Russia,female,2018,pole sport,junior,individual,finals
+49.7,2,Anzhelika Mikutaitis,Russia,female,2018,pole sport,junior,individual,finals
+45.0,3,Lucia Sanchez Rangel,Colombia,female,2018,pole sport,junior,individual,finals
+43.3,4,Zoë Timmermans,Netherlands,female,2018,pole sport,junior,individual,finals
+42.6,5,Annika Winkler,Germany,female,2018,pole sport,junior,individual,finals
+41.4,6,Irini Babuin,Greece,female,2018,pole sport,junior,individual,finals
+39.4,7,Oceane Samuel,France,female,2018,pole sport,junior,individual,finals
+38.9,8,Montserrat Lara,Mexico,female,2018,pole sport,junior,individual,finals
+38.4,9,Noemie Arifi,Switzerland,female,2018,pole sport,junior,individual,finals
+36.6,10,Nikou Kai,Japan,female,2018,pole sport,junior,individual,finals
+36.0,11,Demi Brama,Netherlands,female,2018,pole sport,junior,individual,finals
+33.9,12,Alessia Orlandini,Italy,female,2018,pole sport,junior,individual,finals
+32.2,13,Camile Saibert,Brazil,female,2018,pole sport,junior,individual,finals
+29.3,14,Roni Tami,Israel,female,2018,pole sport,junior,individual,finals
+27.5,15,Caolina Arlandez Zoyo,Spain,female,2018,pole sport,junior,individual,finals
+26.0,16,Melanie Teper,USA,female,2018,pole sport,junior,individual,finals
+24.7,17,Ella Shalit,Israel,female,2018,pole sport,junior,individual,finals
+23.7,18,Eva Alemany Modol,Spain,female,2018,pole sport,junior,individual,finals
+21.7,19,Olga Farkas,Hungary,female,2018,pole sport,junior,individual,finals
+14.3,20,Violetta Li,Krygyzstan,female,2018,pole sport,junior,individual,finals
+38.5,1,Alex Aufderklamm,Italy,male,2018,pole sport,junior,individual,finals
+37.8,2,Jesús Ávalos,Mexico,male,2018,pole sport,junior,individual,finals
+27.4,3,Yorge Alvarez,Venezuela,male,2018,pole sport,junior,individual,finals
+51.1,1,Irina Makushina,Russia,female,2018,pole sport,novice,individual,finals
+50.7,2,Lydia Kanellopoulou,Greece,female,2018,pole sport,novice,individual,finals
+50.3,3,Sawa Konishi,Japan,female,2018,pole sport,novice,individual,finals
+50.3,4,Dana Castillo,Mexico,female,2018,pole sport,novice,individual,finals
+50.1,5,Paige Olson,USA,female,2018,pole sport,novice,individual,finals
+48.0,6,Romane Moscaritolo,Switzerland,female,2018,pole sport,novice,individual,finals
+47.2,7,Valentina Gonzalez Cid,Chile,female,2018,pole sport,novice,individual,finals
+46.8,8,Nayeli García,Mexico,female,2018,pole sport,novice,individual,finals
+46.3,9,Emilia Moskalenko,Ukraine,female,2018,pole sport,novice,individual,finals
+43.0,10,Maisa Coutinho,Brazil,female,2018,pole sport,novice,individual,finals
+42.7,11,Ciari Iwasaki,Japan,female,2018,pole sport,novice,individual,finals
+42.5,12,Arantza Butron Carrasco,Chile,female,2018,pole sport,novice,individual,finals
+42.2,13,Alba Parra,Spain,female,2018,pole sport,novice,individual,finals
+40.1,14,Nicole Aufderklamm,Italy,female,2018,pole sport,novice,individual,finals
+38.5,15,Viivi Kranni,Finland,female,2018,pole sport,novice,individual,finals
+37.3,16,Janne Jacobs,Netherlands,female,2018,pole sport,novice,individual,finals
+36.8,17,Alba Domingo,Spain,female,2018,pole sport,novice,individual,finals
+36.8,18,Gaia Pinna,Italy,female,2018,pole sport,novice,individual,finals
+36.4,19,Noa Shuat,Israel,female,2018,pole sport,novice,individual,finals
+35.5,20,Shaina Gauthier,France,female,2018,pole sport,novice,individual,finals
+35.0,21,Eden Berditchevsky,Israel,female,2018,pole sport,novice,individual,finals
+34.1,22,Katja van Houts,Netherlands,female,2018,pole sport,novice,individual,finals
+32.4,23,Oliwia Predki,Poland,female,2018,pole sport,novice,individual,finals
+32.2,24,Diana Kulik,Germany,female,2018,pole sport,novice,individual,finals
+32.2,25,Tylai Pose,Switzerland,female,2018,pole sport,novice,individual,finals
+29.4,26,Reea Hangasluoma,Finland,female,2018,pole sport,novice,individual,finals
+28.5,27,Dorottya Kata Gera,Hungary,female,2018,pole sport,novice,individual,finals
+15.4,28,Camila Armas,Venezuela,female,2018,pole sport,novice,individual,finals
+46.1,1,Albert Amores Roig,Spain,male,2018,pole sport,novice,individual,finals
+31.7,2,Antonio Bercovici,Germany,male,2018,pole sport,novice,individual,finals
+57.7,1,Svetlana Nikonova & Ekaterina Abramova,Russia,female,2018,pole sport,senior,doubles,finals
+57.1,2,Ksenia Ivlushkina & Ekaterina Illindeeva,Russia,female,2018,pole sport,senior,doubles,finals
+48.3,3,Maki Mori & Keiko Takemoto,Japan,female,2018,pole sport,senior,doubles,finals
+47.0,4,Jennifer Kascsák & Tifany Lili Makovinyi,Hungary,female,2018,pole sport,senior,doubles,finals
+46.7,5,Alessandra Rancan & Denise Mendes,Brazil,female,2018,pole sport,senior,doubles,finals
+45.8,6,Amanda Drotz & Anki Eriander ,Sweden,female,2018,pole sport,senior,doubles,finals
+44.5,7,Elise Dahl-Hansen & Camilla Haukas Skjeseth,Norway,female,2018,pole sport,senior,doubles,finals
+43.0,8,Amalia Lang & Kayla Lee Burch,Germany,female,2018,pole sport,senior,doubles,finals
+42.4,9,Irina Vorobyeva & Anna Palou,Spain,female,2018,pole sport,senior,doubles,finals
+42.1,10,Suzy Niamut & Dieuwke Hupkes,Netherlands,female,2018,pole sport,senior,doubles,finals
+41.7,11,Agustina Montanari & Sofia Castegnani,Argentina,female,2018,pole sport,senior,doubles,finals
+41.3,12,Albina Kreider & Irina Mauch,Germany,female,2018,pole sport,senior,doubles,finals
+38.2,13,Maria Zevgola & Sofia Miskaki,Greece,female,2018,pole sport,senior,doubles,finals
+37.1,14,Anita Kalewska & Alexsandra Sadowska,Poland,female,2018,pole sport,senior,doubles,finals
+36.2,15,Gaëlle Gander & Aina Cusco,Switzerland,female,2018,pole sport,senior,doubles,finals
+35.1,16,Camille Prenez & Celine Reverchon,Switzerland,female,2018,pole sport,senior,doubles,finals
+34.7,17,Kristyna Ksirova & Lan Phuong Nguyenova,Czech Republic ,female,2018,pole sport,senior,doubles,finals
+30.5,18,Eva Oerlemans & Esther Verheijen,Netherlands,female,2018,pole sport,senior,doubles,finals
+30.4,19,Benedetta Rossi & Guilia Rossi,Italy,female,2018,pole sport,senior,doubles,finals
+27.6,20,Manon Vinson & Mathilde Charrezron,France,female,2018,pole sport,senior,doubles,finals
+26.7,21,Therese Karmstrand & Therese Berge,Sweden,female,2018,pole sport,senior,doubles,finals
+23.9,22,Malgorzata Jurczek & Edyta Borchowiec,Poland,female,2018,pole sport,senior,doubles,finals
+22.5,23,Miho Ingaki & Megumi Hibino,Japan,female,2018,pole sport,senior,doubles,finals
+57.8,1,Maria Eugenia Plaza & Sergio Chan,Mexico,mixed,2018,pole sport,senior,doubles,finals
+49.0,2,Denis Terrones & Maria Gatell,Spain,mixed,2018,pole sport,senior,doubles,finals
+49.0,3,Sebastian Hernandez & Andrea Chacon,Colombia,mixed,2018,pole sport,senior,doubles,finals
+41.8,4,Erika Ortega & Carlos Corro,Mexico,mixed,2018,pole sport,senior,doubles,finals
+36.6,5,Mami Kimura & Javier Ramirez,Japan,mixed,2018,pole sport,senior,doubles,finals
+33.7,6,Martin Portillo & Macarena Llanir,Argentina,mixed,2018,pole sport,senior,doubles,finals
+24.4,7,Takashi Minami & Shoko Sonoda,Japan,mixed,2018,pole sport,senior,doubles,finals
+41.9,1,Nick la Gije & Gianmarco Stafanelli,Netherlands,male,2018,pole sport,senior,doubles,finals
+40.8,2,Christian Fernandez & Filipi Camargo,Spain,male,2018,pole sport,senior,doubles,finals
+48.8,1,Sorami Fujioka & Nikou Kai,Japan,mixed,2018,pole sport,youth,doubles,finals
+35.3,2,Ely Grimaud & Noemie Albin,France,mixed,2018,pole sport,youth,doubles,finals
+26.3,3,Alma Shauli & Inbar Berditchevsky,Israel,mixed,2018,pole sport,youth,doubles,finals
+39.6,1,Montserrat Lara & Jesús Ávalos,Mexico,male,2018,pole sport,junior,doubles,finals
+19.8,2,Lior Leder & Ella Shalit,Israel,male,2018,pole sport,junior,doubles,finals
+18.6,3,Bruna Sala & Marta Martin,Spain,male,2018,pole sport,junior,doubles,finals
+44.0,1,Albert Amores & Gala Sabate,Spain,mixed,2018,pole sport,novice,doubles,finals
+31.6,2,Maeva Argoud & Joanna Didier,France,mixed,2018,pole sport,novice,doubles,finals
+30.4,3,Alba Parra & Alba Domingo,Spain,mixed,2018,pole sport,novice,doubles,finals
+33.4,1,Isabel Aguilar,Mexico,female,2018,para pole,PPMP1,individual,finals
+31.1,2,Pam Kelham,UK,female,2018,para pole,PPMP1,individual,finals
+24.9,3,Therese Moen Heimdal,Norway,female,2018,para pole,PPMP1,individual,finals
+39.8,1,Erin Clark,Spain,female,2018,para pole,PPMP2,individual,finals
+36.4,1,Laura Reyes,Spain,female,2018,para pole,PPVI,individual,finals
+87.2,1,Maud Rietbroek,Netherlands,female,2018,artistic pole,senior,individual,finals
+77.4,2,Dariya Smirnova,Russia,female,2018,artistic pole,senior,individual,finals
+71.2,3,Erika Gonzalez del Pliego Revilla,Mexico,female,2018,artistic pole,senior,individual,finals
+71.0,4,Tatyana Gordiyenko,Ukraine,female,2018,artistic pole,senior,individual,finals
+69.2,5,Melanie Martin,South Africa,female,2018,artistic pole,senior,individual,finals
+60.4,6,Luciana Ongaro,Brazil,female,2018,artistic pole,senior,individual,finals
+59.2,7,Eugenia Tovar,Venezuela,female,2018,artistic pole,senior,individual,finals
+59.0,8,Zhanna Mahlysh,Belarus,female,2018,artistic pole,senior,individual,finals
+52.6,9,Ayano Utsugl,Japan,female,2018,artistic pole,senior,individual,finals
+52.0,10,Alexsandra Vigh,Hungary,female,2018,artistic pole,senior,individual,finals
+85.0,1,Denis Terrones,Spain,male,2018,artistic sport,senior,individual,finals
+80.8,2,Guilherme Ambrosio,Brazil,male,2018,artistic sport,senior,individual,finals
+79.8,3,Moisés Ahumada Reyes,Mexico,male,2018,artistic sport,senior,individual,finals
+77.6,4,Naoto Araya,Japan,male,2018,artistic sport,senior,individual,finals
+76.6,5,Sebastian Hernandez Callejas,Colombia,male,2018,artistic sport,senior,individual,finals
+72.8,6,Luca Bardino,Switzerland,male,2018,artistic sport,senior,individual,finals
+64.8,7,Jorge Lera,Norway,male,2018,artistic sport,senior,individual,finals
+69.0,1,Yvonne Haug,Germany,female,2018,artistic pole,masters 50+,individual,finals
+65.0,2,Gisella Scheuch,Peru,female,2018,artistic pole,masters 50+,individual,finals
+59.0,3,Edgai Gallego,Brazil,female,2018,artistic pole,masters 50+,individual,finals
+57.8,4,Susy Ordoñez,Mexico,female,2018,artistic pole,masters 50+,individual,finals
+48.2,5,Carmen Seinwill,Germany,female,2018,artistic pole,masters 50+,individual,finals
+57.4,1,Yoshichika Kugimiya,Japan,male,2018,artistic pole,masters 50+,individual,finals
+40.2,2,Lex Hart,Canada,male,2018,artistic pole,masters 50+,individual,finals
+38.4,3,Olavi  Heino,Finland,male,2018,artistic pole,masters 50+,individual,finals
+79.4,1,Alex Aufderklamm,Italy,female,2018,artistic pole,junior,individual,finals
+76.4,2,Demi Brama,Netherlands,female,2018,artistic pole,junior,individual,finals
+71.6,3,Dana Castillo,Mexico,female,2018,artistic pole,junior,individual,finals
+70.4,4,Csenge Szántó,Hungary,female,2018,artistic pole,junior,individual,finals
+60.2,5,Melanie Teper,USA,female,2018,artistic pole,junior,individual,finals
+51.0,6,Kinga Szreder,Poland,female,2018,artistic pole,junior,individual,finals
+34.8,7,Amy Cameron,UK,female,2018,artistic pole,junior,individual,finals
+75.4,1,Maki Mori & Keiko Takemoto,Japan,male,2018,artistic pole,senior,doubles,finals
+70.6,2,Anna Valfsson & Slava Ruza,Sweden,male,2018,artistic pole,senior,doubles,finals
+68.2,3,Renáta Molnár & Violetta Prokl,Hungary,male,2018,artistic pole,senior,doubles,finals
+68.2,4,Maria Eugenia Plaza & Sergio Chan,Mexico,male,2018,artistic pole,senior,doubles,finals
+66.2,5,Agata Kocinska & Mateusz Smikiel,Poland,male,2018,artistic pole,senior,doubles,finals
+64.4,6,Ingrid Maddalena & Costanzo Marro,Italy,male,2018,artistic pole,senior,doubles,finals
+62.2,7,Svetlana Sidorenkova & Elena Evdokimova,Russia,male,2018,artistic pole,senior,doubles,finals
+56.8,8,Nooki Berhitoe & Juul de Metz,Netherlands,male,2018,artistic pole,senior,doubles,finals
+56.6,9,Alba Molina & Filiph Isculpi,Spain,male,2018,artistic pole,senior,doubles,finals
+56.6,1,Dineke Minten,Netherlands,female,2018,ultra pole,senior,individual,finals
+56.6,2,Irina Makushina,Russia,female,2018,ultra pole,senior,individual,finals
+56.6,3,Marta Stachowicz,Poland,female,2018,ultra pole,senior,individual,finals
+56.6,1,Julio Marin Clevel,Colombia,male,2018,ultra pole,senior,individual,finals
+56.6,2,Marco Bassi,Italy,male,2018,ultra pole,senior,individual,finals
+56.6,3,Lei Jiang,China,male,2018,ultra pole,senior,individual,finals
+52.1,1,Albert Amores Roig,Spain,female,2019,pole sport,novice,individual,finals
+26.5,2,Jesse Weber,USA,female,2019,pole sport,novice,individual,finals
+46.8,1,Hina Maki,Japan,female,2019,pole sport,novice,individual,finals
+42.8,2,Paige Olson,USA,female,2019,pole sport,novice,individual,finals
+42.5,3,Sawa Konishi,Japan,female,2019,pole sport,novice,individual,finals
+42.0,4,Nayeli García Vázquez,Mexico,female,2019,pole sport,novice,individual,finals
+41.5,5,Polina Korniienko,Ukraine,female,2019,pole sport,novice,individual,finals
+38.8,6,Kira Amira Szántó,Hungary,female,2019,pole sport,novice,individual,finals
+38.5,7,Gala Sabate Martin,Spain,female,2019,pole sport,novice,individual,finals
+38.4,8,Daria Sergeeva,Russia,female,2019,pole sport,novice,individual,finals
+38.0,9,Clara Pacheco,Brazil,female,2019,pole sport,novice,individual,finals
+38.0,10,Anastasiia Ferents,Kyrgyzstan,female,2019,pole sport,novice,individual,finals
+34.5,11,Nikol Gabona,Hungary,female,2019,pole sport,novice,individual,finals
+33.2,12,Kira Manoilo,Kazakhstan,female,2019,pole sport,novice,individual,finals
+32.0,13,Lieve Warmoeskerken,Netherlands,female,2019,pole sport,novice,individual,finals
+31.2,14,Eleni Entseanou,Greece,female,2019,pole sport,novice,individual,finals
+30.1,15,Finja Rolshausen,Germany,female,2019,pole sport,novice,individual,finals
+29.8,16,Jenna Lehto,Finland,female,2019,pole sport,novice,individual,finals
+28.4,17,Reea Hangasluoma,Finland,female,2019,pole sport,novice,individual,finals
+27.7,18,Jessica Cadil,Netherlands,female,2019,pole sport,novice,individual,finals
+27.4,19,Nicole Aufderklamm,Italy,female,2019,pole sport,novice,individual,finals
+26.8,20,Yeva Arakelova,Kazakhstan,female,2019,pole sport,novice,individual,finals
+26.1,21,Ji Ho Lim,South Korea,female,2019,pole sport,novice,individual,finals
+25.9,22,Léonie Kohler,Switzerland,female,2019,pole sport,novice,individual,finals
+23.7,23,Anna Smolska,Germany,female,2019,pole sport,novice,individual,finals
+23.3,24,Gaia Pinna,Italy,female,2019,pole sport,novice,individual,finals
+23.3,25,Amandine Marchon,Switzerland,female,2019,pole sport,novice,individual,finals
+20.4,26,Regina Peralta Ocaña,Mexico,female,2019,pole sport,novice,individual,finals
+19.1,27,Felicia Edvardsson,Sweden,female,2019,pole sport,novice,individual,finals
+18.4,28,Chabela Pazos,Argentina,female,2019,pole sport,novice,individual,finals
+14.6,29,Edurne Pedrol Espinosa,Spain,female,2019,pole sport,novice,individual,finals
+38.5,1,Gala Sabate Martin & Albert Amores Roig,Spain,female,2019,pole sport,novice,individual,finals
+30.1,2,Nikol Gabona & Kira Amira Szántó,Hungary,female,2019,pole sport,novice,individual,finals
+15.0,3,Shaïna Gauthier & Ely Grimaud,France,female,2019,pole sport,novice,individual,finals
+48.9,1,Lydia Kanellopoulou,Greece,female,2019,pole sport,novice,individual,finals
+46.4,2,Annika Winkler,Germany,female,2019,pole sport,novice,individual,finals
+45.0,3,Kano Konishi,Japan,female,2019,pole sport,novice,individual,finals
+44.6,4,Lucia Sanchez,Colombia,female,2019,pole sport,novice,individual,finals
+40.9,5,Fenna Lemeer,Netherlands,female,2019,pole sport,novice,individual,finals
+39.2,6,Demi Brama,Netherlands,female,2019,pole sport,novice,individual,finals
+38.7,7,Amelia Szczotarska,Poland,female,2019,pole sport,novice,individual,finals
+37.5,8,Romane Moscaritolo,Switzerland,female,2019,pole sport,novice,individual,finals
+36.3,9,Brooke Unsworth,South Africa,female,2019,pole sport,novice,individual,finals
+34.9,10,Ciara Iwasaki,Japan,female,2019,pole sport,novice,individual,finals
+33.3,11,Viivi Kranni,Finland,female,2019,pole sport,novice,individual,finals
+33.3,12,Giovanna Laufer,Germany,female,2019,pole sport,novice,individual,finals
+31.8,13,Isabella Oliveros Riveros,Colombia,female,2019,pole sport,novice,individual,finals
+31.5,14,Maya Galansky,Israel,female,2019,pole sport,novice,individual,finals
+29.8,15,Olga Farkas,Hungary,female,2019,pole sport,novice,individual,finals
+29.5,16,Petra Cerna,Czech Republic,female,2019,pole sport,novice,individual,finals
+26.0,17,Nicole Negro,Italy,female,2019,pole sport,novice,individual,finals
+25.0,18,Lior Pavon,Israel,female,2019,pole sport,novice,individual,finals
+22.7,19,Montserrat Lara,Mexico,female,2019,pole sport,novice,individual,finals
+22.5,20,Maisa Coutiho,Brazil,female,2019,pole sport,novice,individual,finals
+19.7,21,Noémie Albin,France,female,2019,pole sport,novice,individual,finals
+47.5,1,Karim Luna Santana,Mexico,male,2019,pole sport,junior,individual,finals
+37.9,1,Maya Confino & Ella Shalit,Israel,female,2019,pole sport,junior,doubles,finals
+11.4,2,Océane Samuel & Noémie Albin,France,female,2019,pole sport,junior,doubles,finals
+38.7,1,Kano Konishi & Sawa Konishi,Japan,female,2019,pole sport,youth,doubles,finals
+27.1,2,Clara Pacheco & Maisa Coutinho,Brazil,female,2019,pole sport,youth,doubles,finals
+23.4,3,Maëva Argoud & Joanna Didier,France,female,2019,pole sport,youth,doubles,finals
+19.8,4,Anna Smolska & Stefanie Huck,Germany,female,2019,pole sport,youth,doubles,finals
+25.7,1,Gaëlle Gander & Luca Bardino,Switzerland,mixed,2019,pole sport,senior,doubles,finals
+20.5,2,Mami Kimura & Javier Ramirez,Japan,mixed,2019,pole sport,senior,doubles,finals
+19.8,3,Marie Graff & Jonas Helander Claesson,Sweden,mixed,2019,pole sport,senior,doubles,finals
+19.6,4,Sondre Heimlid & Mehabad Khak Poor,Norway,mixed,2019,pole sport,senior,doubles,finals
+15.9,5,David Wilson & Tasmin Rymer,Australia,mixed,2019,pole sport,senior,doubles,finals
+46.4,1,Amalia Lang & Kayla Lee Burch,Germany,female,2019,pole sport,senior,double,finals
+43.3,2,Masako Akao & Marina Yamaguchi,Japan,female,2019,pole sport,senior,double,finals
+43.2,3,Maki Morishima & Keiko Takemoto,Japan,female,2019,pole sport,senior,double,finals
+41.3,4,Kseniia Ivliushkina & Ekaterina Ilindeeva,Russia,female,2019,pole sport,senior,double,finals
+39.8,5,Elise Dahl- Hansen & Camilla Skjeseth,Norway,female,2019,pole sport,senior,double,finals
+38.2,6,Alessandra Rancan & Denise Martins,Brazil,female,2019,pole sport,senior,double,finals
+33.1,7,Eva Engeliena Tjalsma & Tirsa Hagen,Netherlands,female,2019,pole sport,senior,double,finals
+32.9,8,Camila Moita & Roberta Oka,Brazil,female,2019,pole sport,senior,double,finals
+31.6,9,Julia Wahl & Bianca Schumayer,Germany,female,2019,pole sport,senior,double,finals
+31.3,10,France Lauriault & Capucine Loranger,Canada,female,2019,pole sport,senior,double,finals
+30.5,11,Erika Bodó & Dóra Boldizsár,Hungary,female,2019,pole sport,senior,double,finals
+28.8,12,Amy Davidson & Jude Perrett,Australia,female,2019,pole sport,senior,double,finals
+27.7,13,Anita Kalewska & Aleksandra Sadowska,Poland,female,2019,pole sport,senior,double,finals
+18.4,14,Maité Degryse & Eowyn van de Putte,Belgium,female,2019,pole sport,senior,double,finals
+17.6,15,Benedetta Rossi & Giulia Rossi,Italy,female,2019,pole sport,senior,double,finals
+30.6,1,Seiichi Yamazaki,Japan,male,2019,pole sport,masters 40+,individual,finals
+25.4,2,Javier Ramirez,Japan,male,2019,pole sport,masters 40+,individual,finals
+23.5,3,Falko Rolf Walther,Germany,male,2019,pole sport,masters 40+,individual,finals
+20.5,4,Robert Morgan,Canada,male,2019,pole sport,masters 40+,individual,finals
+46.2,1,Erika Ortega,Mexico,female,2019,pole sport,masters 40+,individual,finals
+43.3,2,Raquel Ballesta Sanchez,Spain,female,2019,pole sport,masters 40+,individual,finals
+37.6,3,Svetlana Podolskaya,Russia,female,2019,pole sport,masters 40+,individual,finals
+36.8,4,Masako Akao,Japan,female,2019,pole sport,masters 40+,individual,finals
+35.6,5,Yoshiko Mitsunari,Japan,female,2019,pole sport,masters 40+,individual,finals
+34.6,6,Orsolya Kelemen,Hungary,female,2019,pole sport,masters 40+,individual,finals
+34.3,7,Steffi Klemm,Germany,female,2019,pole sport,masters 40+,individual,finals
+33.4,8,Karla Picazo Schefer,Mexico,female,2019,pole sport,masters 40+,individual,finals
+32.7,9,Evelina Kaarme,Sweden,female,2019,pole sport,masters 40+,individual,finals
+31.5,10,Wiebke Schröder,Germany,female,2019,pole sport,masters 40+,individual,finals
+30.4,11,Ryoko Ibaraki,New Zealand,female,2019,pole sport,masters 40+,individual,finals
+27.4,12,Larissa Hop-Fink,Netherlands,female,2019,pole sport,masters 40+,individual,finals
+25.0,13,Alexandra Kalousova,Czech Republic,female,2019,pole sport,masters 40+,individual,finals
+24.5,14,Maria Georganta,Greece,female,2019,pole sport,masters 40+,individual,finals
+22.6,15,Virginia Tarabella,Italy,female,2019,pole sport,masters 40+,individual,finals
+18.3,16,Nina Savela,Finland,female,2019,pole sport,masters 40+,individual,finals
+17.0,17,Sylvia Louis,Canada,female,2019,pole sport,masters 40+,individual,finals
+14.9,18,Victoria Williams,Belgium,female,2019,pole sport,masters 40+,individual,finals
+10.9,19,Dana Florina Bertolon,Romania,female,2019,pole sport,masters 40+,individual,finals
+4.8,20,Isabelle Sivignon,France,female,2019,pole sport,masters 40+,individual,finals
+28.2,1,Benoit Imesch,Switzerland,male,2019,pole sport,masters 50+,individual,finals
+23.6,2,Yoshichika Kugimiya,Japan,male,2019,pole sport,masters 50+,individual,finals
+11.5,3,Jim Jiminez,Canada,male,2019,pole sport,masters 50+,individual,finals
+8.6,4,Juan Luis Oubel Barba,Spain,male,2019,pole sport,masters 50+,individual,finals
+7.1,5,Paul William Bradley,Great Britain,male,2019,pole sport,masters 50+,individual,finals
+36.9,1,Nora Susana Ordoñez Lopez,Mexico,female,2019,pole sport,masters 50+,individual,finals
+31.4,2,Mika Higuchi,Japan,female,2019,pole sport,masters 50+,individual,finals
+26.8,3,Ivana Ferdinandova,Czech Republic,female,2019,pole sport,masters 50+,individual,finals
+26.4,4,Maki Kudo,Japan,female,2019,pole sport,masters 50+,individual,finals
+21.8,5,Shannon Daily,USA,female,2019,pole sport,masters 50+,individual,finals
+19.9,6,Imelda Cabello Larios,Mexico,female,2019,pole sport,masters 50+,individual,finals
+12.7,7,Eva Lopez Demenech,Spain,female,2019,pole sport,masters 50+,individual,finals
+11.7,8,Edgai Gallego,Brazil,female,2019,pole sport,masters 50+,individual,finals
+9.1,9,Monica van Beek,Netherlands,female,2019,pole sport,masters 50+,individual,finals
+1.5,10,Tomoko Okada,Italy,female,2019,pole sport,masters 50+,individual,finals
+58.8,1,Naoto Araya,Japan,male,2019,pole sport,senior,individual,finals
+45.5,2,Alexander Bedoya,Colombia,male,2019,pole sport,senior,individual,finals
+39.8,3,Simon Koch,Germany,male,2019,pole sport,senior,individual,finals
+37.2,4,Norbert Krajnyák,Hungary,male,2019,pole sport,senior,individual,finals
+28.5,5,Fernando Ocampo,Mexico,male,2019,pole sport,senior,individual,finals
+26.5,6,Nick La Gije,Netherlands,male,2019,pole sport,senior,individual,finals
+23.7,7,Sung Hyuk Choi,South Korea,male,2019,pole sport,senior,individual,finals
+69.4,1,Maria Eugenia Plaza Ortega,Mexico,female,2019,pole sport,senior,individual,finals
+62.1,2,Anna von Hoyningen Huene,Canada,female,2019,pole sport,senior,individual,finals
+57.1,3,Stavroula Lydia Kollia,Greece,female,2019,pole sport,senior,individual,finals
+56.7,4,Marina Yamaguchi,Japan,female,2019,pole sport,senior,individual,finals
+53.3,5,Alessandra Rancan True,Brazil,female,2019,pole sport,senior,individual,finals
+52.4,6,Dineke Minten,Netherlands,female,2019,pole sport,senior,individual,finals
+51.6,7,Noémi Marosvölgyi,Hungary,female,2019,pole sport,senior,individual,finals
+51.4,8,Natalia Knysheva,Russia,female,2019,pole sport,senior,individual,finals
+46.4,9,Lea Roth,Germany,female,2019,pole sport,senior,individual,finals
+43.8,10,Emi Ono,Japan,female,2019,pole sport,senior,individual,finals
+42.7,11,Lisette Beekhuis,Netherlands,female,2019,pole sport,senior,individual,finals
+42.5,12,Elise Dahl-Hansen,Norway,female,2019,pole sport,senior,individual,finals
+41.0,13,Zuzanna Kijanowska,Poland,female,2019,pole sport,senior,individual,finals
+39.3,14,Erika Gonzalez Del Pliego,Mexico,female,2019,pole sport,senior,individual,finals
+38.8,15,Lisann Lumet,Estonia,female,2019,pole sport,senior,individual,finals
+38.4,16,Tetiana Hordiienko,Ukraine,female,2019,pole sport,senior,individual,finals
+37.9,17,Jana Egger,Germany,female,2019,pole sport,senior,individual,finals
+36.2,18,Dóra Boldizsár,Hungary,female,2019,pole sport,senior,individual,finals
+36.1,19,Ashley Fox,USA,female,2019,pole sport,senior,individual,finals
+36.0,20,Viktoria Korabelnikova,Czech Republic,female,2019,pole sport,senior,individual,finals
+35.5,21,Emma Ring,Sweden,female,2019,pole sport,senior,individual,finals
+35.0,22,Kim Gartmann,Switzerland,female,2019,pole sport,senior,individual,finals
+34.7,23,Greta Berkelyte Zvaan,Lithuania,female,2019,pole sport,senior,individual,finals
+34.2,24,Janaina Casteletti,Brazil,female,2019,pole sport,senior,individual,finals
+33.7,25,Isabel Eslava,Colombia,female,2019,pole sport,senior,individual,finals
+31.8,26,Tine Poullet,Belgium,female,2019,pole sport,senior,individual,finals
+31.4,27,Geissa Peralta,Venezuela,female,2019,pole sport,senior,individual,finals
+29.9,28,Léonie De Sloovere,Switzerland,female,2019,pole sport,senior,individual,finals
+25.8,29,Blanca Irene Sánchez Crespo,Spain,female,2019,pole sport,senior,individual,finals
+25.5,30,Daniela Perello,New Zealand,female,2019,pole sport,senior,individual,finals
+25.1,31,Jekaterina Oborina,Denmark,female,2019,pole sport,senior,individual,finals
+24.2,32,Nadia Farre Llimona,Spain,female,2019,pole sport,senior,individual,finals
+16.1,33,MiJu Lee,South Korea,female,2019,pole sport,senior,individual,finals
+0.0,34,Swati Kakra,India,female,2019,pole sport,senior,individual,finals
+36.1,1,Isabel Aguilar,Mexico,female,2019,para pole,PPMP1,individual,finals
+31.1,2,Kaitlin Rawson,South Africa,female,2019,para pole,PPMP1,individual,finals
+23.0,3,Pamela Kelham,GB,female,2019,para pole,PPMP1,individual,finals
+16.5,4,Therese Moen,Norway,female,2019,para pole,PPMP1,individual,finals
+38.4,1,Andrew Gregory,Great Britain,male,2019,para pole,PPD4,individual,finals
+25.3,1,Laura Reyes Martin,Spain,female,2019,para pole,PPVI,individual,finals
+25.0,2,Leidy Herrera,Colombia,female,2019,para pole,PPVI,individual,finals
+79.6,1,Vika Demchenko,Ukraine,female,2019,artistic pole,junior,individual,finals
+65.6,2,Violetta Li,Kyrgyzstan,female,2019,artistic pole,junior,individual,finals
+58.4,3,Demi Brama,Netherlands,female,2019,artistic pole,junior,individual,finals
+52.4,4,Amelia Szczotarska,Poland,female,2019,artistic pole,junior,individual,finals
+51.6,5,Csenge Szántó,Hungary,female,2019,artistic pole,junior,individual,finals
+50.4,6,Naomi Jazmin Carrillo Hernandez,Mexico,female,2019,artistic pole,junior,individual,finals
+50.2,7,Morgan Lily Hollyoak,Great Britain,female,2019,artistic pole,junior,individual,finals
+49.6,8,Nicole Negro,Italy,female,2019,artistic pole,junior,individual,finals
+48.8,9,Ciari Iwasaki,Japan,female,2019,artistic pole,junior,individual,finals
+46.8,10,Brooke Unsworth,South Africa,female,2019,artistic pole,junior,individual,finals
+44.2,1,Edgai Gallego,Brazil,female,2019,artistic pole,masters 40+,individual,finals
+35.4,2,Wiebke Schröder,Germany,female,2019,artistic pole,masters 40+,individual,finals
+35.2,3,Shannon Daily,USA,female,2019,artistic pole,masters 40+,individual,finals
+33.6,4,Elena Llao Uso,Spain,female,2019,artistic pole,masters 40+,individual,finals
+32.6,5,Claudia Moruzzi,South Africa,female,2019,artistic pole,masters 40+,individual,finals
+29.4,6,Paola Frati,Italy,female,2019,artistic pole,masters 40+,individual,finals
+24.2,7,Mika Higuchi,Japan,female,2019,artistic pole,masters 40+,individual,finals
+42.6,1,Abdiel Villaseñor Talavera,Mexico,male,2019,artistic pole,masters 40+,individual,finals
+38.8,2,Jim Jimenez,Canada,male,2019,artistic pole,masters 40+,individual,finals
+35.6,3,Benoit Imesch,Switzerland,male,2019,artistic pole,masters 40+,individual,finals
+28.4,4,Yoshichika Kugimiya,Japan,male,2019,artistic pole,masters 40+,individual,finals
+75.2,1,Maria Eugenia Plaza Ortega & Sergio Ivan Chan Baños,Mexico,female,2019,artistic pole,senior,doubles,finals
+75.2,2,Viktoriia Chapaikina & Daria Smirnova,Russia,female,2019,artistic pole,senior,doubles,finals
+69.2,3,Luis Urbano Benitez & Nadina De Armas,Spain,female,2019,artistic pole,senior,doubles,finals
+65.2,4,Amalia Lang & Kayla Lee Burch,Germany,female,2019,artistic pole,senior,doubles,finals
+64.0,5,Maki Morishima & Keiko Takemoto,Japan,female,2019,artistic pole,senior,doubles,finals
+60.2,6,Kamila Cyniak & Patryk Duda,Poland,female,2019,artistic pole,senior,doubles,finals
+55.8,7,Renáta Molnár & Violetta Prokl,Hungary,female,2019,artistic pole,senior,doubles,finals
+50.2,8,Fiammetta Orsini & Francesca Prini,Italy,female,2019,artistic pole,senior,doubles,finals
+46.4,9,Alessandra Rancan & Denise Martins,Brazil,female,2019,artistic pole,senior,doubles,finals
+31.0,10,Nikola Viteckova & Alena Klapetkova,Czech Republic,female,2019,artistic pole,senior,doubles,finals
+71.6,1,Naoto Araya,Japan,male,2019,artistic pole,senior,individual,finals
+68.2,2,Prakorn Weeraphon,Thailand,male,2019,artistic pole,senior,individual,finals
+64.4,3,Alex Aufderklamm,Italy,male,2019,artistic pole,senior,individual,finals
+60.8,4,Christian Elbrønd Baroni,Denmark,male,2019,artistic pole,senior,individual,finals
+57.0,5,Sebastian Hernandez Callejas,Colombia,male,2019,artistic pole,senior,individual,finals
+51.4,6,Dennis Chan,Norway,male,2019,artistic pole,senior,individual,finals
+33.2,7,Cameron MacDonald,Canada,male,2019,artistic pole,senior,individual,finals
+72.2,1,Stravroula Lydia Kollia,Greece,female,2019,artistic pole,senior,individual,finals
+66.4,2,Tatyana Gordiyenko,Ukraine,female,2019,artistic pole,senior,individual,finals
+62.2,3,Raquel Garcia Vilajuana,Spain,female,2019,artistic pole,senior,individual,finals
+62.2,4,Hanna Wojewódka-Ściążko,Poland,female,2019,artistic pole,senior,individual,finals
+56.6,5,Réka Bökfi,Hungary,female,2019,artistic pole,senior,individual,finals
+56.4,6,Caroline Lange,Germany,female,2019,artistic pole,senior,individual,finals
+55.4,7,Daniella Baker,South Africa,female,2019,artistic pole,senior,individual,finals
+52.2,8,Bjørg Granly,Norway,female,2019,artistic pole,senior,individual,finals
+40.6,9,Viktoriia Chapaikina,Russia,female,2019,artistic pole,senior,individual,finals
+40.6,1,Marco Bassi,Italy,male,2019,ultra pole,senior,individual,finals
+40.6,2,Yuta Nishizumi,Japan,male,2019,ultra pole,senior,individual,finals
+40.6,3,Patrick de Jongh,South Africa,male,2019,ultra pole,senior,individual,finals
+40.6,1,Dineke Minten,Netherlands,female,2019,ultra pole,senior,individual,finals
+40.6,2,Anna Palau,Spain,female,2019,ultra pole,senior,individual,finals
+40.6,3,Jana Egger,Germany,female,2019,ultra pole,senior,individual,finals
+45.8,1,Yeva Arakelova,Kazakhstan,female,2021,pole sport,novice,individual,finals
+45.4,2,Adina Suleimenova,Kazakhstan,female,2021,pole sport,novice,individual,finals
+41.9,3,Anna Fomenko,Russia,female,2021,pole sport,novice,individual,finals
+41.8,4,Hina Maki,Japan,female,2021,pole sport,novice,individual,finals
+37.6,5,Kseniia Vasileva,Russia,female,2021,pole sport,novice,individual,finals
+37.1,6,Nayeli García Vázquez,Mexico,female,2021,pole sport,novice,individual,finals
+36.8,7,Viktoriya Tarasova,Kyrgyzstan,female,2021,pole sport,novice,individual,finals
+36.1,8,Clara da Silva Pacheco,Brazil,female,2021,pole sport,novice,individual,finals
+34.3,9,Polina Korniienko,Ukraine,female,2021,pole sport,novice,individual,finals
+34.1,10,Mikari Iwasaki,Japan,female,2021,pole sport,novice,individual,finals
+34.0,11,Klára Podroužková,Czech Republic,female,2021,pole sport,novice,individual,finals
+33.1,12,Maria Eduarda Gomes Fonseca,Brazil,female,2021,pole sport,novice,individual,finals
+33.1,13,Sharon Valeria Ensastiga Perez,Mexico,female,2021,pole sport,novice,individual,finals
+31.4,14,Vanessa Trutmann,Switzerland,female,2021,pole sport,novice,individual,finals
+31.1,15,Finja Rolshausen,Germany,female,2021,pole sport,novice,individual,finals
+30.1,16,Janne Jacobs,Netherlands,female,2021,pole sport,novice,individual,finals
+31.0,17,Ji ho Lim,South Korea,female,2021,pole sport,novice,individual,finals
+29.5,18,Lieve Warmoeskerken,Netherlands,female,2021,pole sport,novice,individual,finals
+28.6,19,Stella Williams-Gothuey,Belgium,female,2021,pole sport,novice,individual,finals
+25.8,20,Kira Amira Szanto,Hungary,female,2021,pole sport,novice,individual,finals
+24.3,21,Rodokleia Liontou,Greece,female,2021,pole sport,novice,individual,finals
+23.2,22,Sofiia Vinnyk,Ukraine,female,2021,pole sport,novice,individual,finals
+22.1,23,Aada Kuusela,Finland,female,2021,pole sport,novice,individual,finals
+21.2,24,Aina Hilden,Finland,female,2021,pole sport,novice,individual,finals
+21.1,25,Alexandra Tsellidi,Greece,female,2021,pole sport,novice,individual,finals
+20.7,26,Lénie Raval,Switzerland,female,2021,pole sport,novice,individual,finals
+19.4,27,Aurora Catelani,Italy,female,2021,pole sport,novice,individual,finals
+19.2,28,Dagmara Grześkowiak,Poland,female,2021,pole sport,novice,individual,finals
+16.3,29,Małgorzata Węcławiak,Poland,female,2021,pole sport,novice,individual,finals
+4.0,30,Ilyana Assenjee,France,female,2021,pole sport,novice,individual,finals
+4.0,31,Denisa Preda,Romania,female,2021,pole sport,novice,individual,finals
+28.5,1,Hibiki Omoto,Japan,male,2021,pole sport,novice,doubles,finals
+43.7,1,Rodokleia Liontou & Clio Christou,Greece,female,2021,pole sport,novice,doubles,finals
+42.1,2,Taissiya Toskina & Adina Suleimenova,Kazakhstan,female,2021,pole sport,novice,doubles,finals
+40.2,3,Mariia Podoprihora & Kateryna Holubenko,Ukraine,female,2021,pole sport,novice,doubles,finals
+36.4,4,Talia Aidarova & Alina Akunova,Kyrgyzstan,female,2021,pole sport,novice,doubles,finals
+31.9,5,Barbora Čaloudová & Ester Prokopová,Czech Republic,female,2021,pole sport,novice,doubles,finals
+31.7,6,Eleonora Briglia & Emily Cecchinelli,Italy,female,2021,pole sport,novice,doubles,finals
+31.5,7,Clara da Silva Pacheco & Agatha Roecker,Brazil,female,2021,pole sport,novice,doubles,finals
+30.9,8,Mandi Koskela & Aada Kuusela,Finland,female,2021,pole sport,novice,doubles,finals
+27.9,9,Małgorzata Węcławiak & Dagmara Grześkowiak,Poland,female,2021,pole sport,novice,doubles,finals
+19.8,10,Denisse Carolina Cuellar Cázares & Sharon Valeria Ensástiga Pérez,Mexico,female,2021,pole sport,novice,doubles,finals
+10.0,11,Kincso Foldesi & Brigitta Csogor,Hungary,female,2021,pole sport,novice,doubles,finals
+43.1,1,Gala Sabatér Martín,Spain,female,2021,pole sport,junior,individual,finals
+37.8,2,Anna Artemchuk,Ukraine,female,2021,pole sport,junior,individual,finals
+36.0,3,Daria Sidyakova,Russia,female,2021,pole sport,junior,individual,finals
+35.1,4,Lydia Kanellopoulou,Greece,female,2021,pole sport,junior,individual,finals
+34.4,5,Sawa Konishi,Japan,female,2021,pole sport,junior,individual,finals
+34.3,6,Alyona Fomenko,Russia,female,2021,pole sport,junior,individual,finals
+34.0,7,Kano Konishi,Japan,female,2021,pole sport,junior,individual,finals
+32.0,8,Anastasiia Ferents,Kyrgyzstan,female,2021,pole sport,junior,individual,finals
+31.5,9,Regina Ukrainets,Kazakhstan,female,2021,pole sport,junior,individual,finals
+27.1,10,Yeva Sapiha,Ukraine,female,2021,pole sport,junior,individual,finals
+22.3,11,Dariga Nurzhaubaeva,Kazakhstan,female,2021,pole sport,junior,individual,finals
+20.8,12,Dalia Dryden,USA,female,2021,pole sport,junior,individual,finals
+20.7,13,Gaia Pinna,Italy,female,2021,pole sport,junior,individual,finals
+19.3,14,Amandine Marchon,Switzerland,female,2021,pole sport,junior,individual,finals
+18.7,15,Samara Paola Rubio Nava,Mexico,female,2021,pole sport,junior,individual,finals
+16.5,16,Samara Najla Gomes Fonseca,Brazil,female,2021,pole sport,junior,individual,finals
+16.3,17,Eleni Entseanou,Greece,female,2021,pole sport,junior,individual,finals
+10.9,18,Anna Zawadzka,Poland,female,2021,pole sport,junior,individual,finals
+10.0,19,Jessica Cadil,Netherlands,female,2021,pole sport,junior,individual,finals
+4.7,20,Jeon Min-sun,South Korea,female,2021,pole sport,junior,individual,finals
+57.5,1,Albert Amores Roig,Spain,male,2021,pole sport,junior,individual,finals
+33.4,2,Amane Sakamoto,Japan,male,2021,pole sport,junior,individual,finals
+23.1,3,Arkadij Volkov,Russia,male,2021,pole sport,junior,individual,finals
+21.1,4,Jesse Weber,USA,male,2021,pole sport,junior,individual,finals
+47.6,1,Gulbara Bolotova & Sofiya Gubeeva,Kyrgyzstan,female,2021,pole sport,junior,double,finals
+45.3,2,Gala Sabatér Martin & Albert Amores,Spain,female,2021,pole sport,junior,double,finals
+41.9,3,Kano Konishi & Sawa Konishi,Japan,female,2021,pole sport,junior,double,finals
+29.3,4,Pihla Luosujärvi & Oona Ylävaara,Finland,female,2021,pole sport,junior,double,finals
+25.2,5,Darya Sidyakova & Tatiana Korostyleva,Russia,female,2021,pole sport,junior,double,finals
+40.9,1,Maria Eduarda Gomes Fonseca & Samara Najla,Brazil,female,2021,pole sport,youth,double,finals
+36.8,2,Alyona Fomenko & Anna Fomenko,Russia,female,2021,pole sport,youth,double,finals
+61.6,1,Naoto Araya,Japan,male,2021,pole sport,senior,individual,finals
+44.8,2,Simon Koch,Germany,male,2021,pole sport,senior,individual,finals
+30.1,3,Jesús Ávalos Orozco,Mexico,male,2021,pole sport,senior,individual,finals
+24.4,4,Felipe Mendoza,Chile,male,2021,pole sport,senior,individual,finals
+22.1,5,Abraante Lima da Silva,Brazil,male,2021,pole sport,senior,individual,finals
+20.1,6,Longino Arvizu Estrada,Mexico,male,2021,pole sport,senior,individual,finals
+19.5,7,Shunsuke Ishiyama,Japan,male,2021,pole sport,senior,individual,finals
+5.3,8,Juan Sebastian Curtidor Quijano,Colombia,male,2021,pole sport,senior,individual,finals
+60.0,1,Marina Yamaguchi,Japan,female,2021,pole sport,senior,individual,finals
+56.8,2,Lydia Stavroula Kollia,Greece,female,2021,pole sport,senior,individual,finals
+56.1,3,Natalia Knysheva,Russia,female,2021,pole sport,senior,individual,finals
+55.7,4,Lea Roth,Germany,female,2021,pole sport,senior,individual,finals
+53.7,5,Magdalena Karasińska,Poland,female,2021,pole sport,senior,individual,finals
+48.1,6,Janaína Castelleti,Brazil,female,2021,pole sport,senior,individual,finals
+47.1,7,Noemi Basile,Italy,female,2021,pole sport,senior,individual,finals
+44.4,8,Kim Gartmann,Switzerland,female,2021,pole sport,senior,individual,finals
+43.8,9,Vanessa Lima Kümmel,Brazil,female,2021,pole sport,senior,individual,finals
+43.2,10,Hanna Knihtilä,Sweden,female,2021,pole sport,senior,individual,finals
+42.7,11,Christel Wallin,Sweden,female,2021,pole sport,senior,individual,finals
+42.6,12,María Raquel De La Vega Badillo,Mexico,female,2021,pole sport,senior,individual,finals
+41.6,13,Montserrat Lara Mariscal,Mexico,female,2021,pole sport,senior,individual,finals
+40.6,14,Tsumanuma Yuki,Japan,female,2021,pole sport,senior,individual,finals
+40.3,15,Demi Brama,Netherlands,female,2021,pole sport,senior,individual,finals
+39.9,16,Romane Moscaritolo,Switzerland,female,2021,pole sport,senior,individual,finals
+38.2,17,Varvara Koshkina,Kazakhstan,female,2021,pole sport,senior,individual,finals
+37.0,18,Viivi Kranni,Finland,female,2021,pole sport,senior,individual,finals
+36.4,19,Mi ju Lee,South Korea,female,2021,pole sport,senior,individual,finals
+35.7,20,Anneleen Freriksen,Netherlands,female,2021,pole sport,senior,individual,finals
+33.9,21,Nicole Passarella,Italy,female,2021,pole sport,senior,individual,finals
+32.6,22,Nicole Quenneville,Canada,female,2021,pole sport,senior,individual,finals
+31.5,23,Barbora Orságová,Czech Republic,female,2021,pole sport,senior,individual,finals
+31.5,24,Sofiia Titova,Russia,female,2021,pole sport,senior,individual,finals
+29.9,25,Georgeta Corca,Romania,female,2021,pole sport,senior,individual,finals
+28.8,26,Marta Martín Ortínez,Spain,female,2021,pole sport,senior,individual,finals
+25.1,27,Kinga Szostak,Norway,female,2021,pole sport,senior,individual,finals
+19.4,28,Kristína Haviarová,Slovak Republic,female,2021,pole sport,senior,individual,finals
+45.6,1,Simon Koch & Lea Roth,Germany,mixed,2021,pole sport,senior,doubles,finals
+41.8,2,Montserrat Lara Mariscal & Jesús Ávalos Orozco,Mexico,mixed,2021,pole sport,senior,doubles,finals
+26.4,3,Ayano Ishiyam & Shunsuke Ishiyama,Japan,mixed,2021,pole sport,senior,doubles,finals
+17.1,4,Tasmin Rymer & David Wilson,Australia,mixed,2021,pole sport,senior,doubles,finals
+38.0,1,Sergio Iván Chan Baños & Iván Alejandro Pérez Soria,Mexico,male,2021,pole sport,senior,doubles,finals
+53.4,1,María Eugenia Plaza Ortega & María Raquel De la Vega Badillo,Mexico,female,2021,pole sport,senior,doubles,finals
+51.6,2,Amalia Lang & Kayla Lee Burch,Germany,female,2021,pole sport,senior,doubles,finals
+42.5,3,Serena De O. Pires & Karina Balbo,Brazil,female,2021,pole sport,senior,doubles,finals
+41.5,4,Tereza Kobrlová & Barbora Viková,Czech republic,female,2021,pole sport,senior,doubles,finals
+41.1,5,Romane Moscaritolo & Léonie De Sloovere,Switzerland,female,2021,pole sport,senior,doubles,finals
+40.9,6,Abigaïl Vis & Lotte van de Veerdonk,Netherlands,female,2021,pole sport,senior,doubles,finals
+36.5,7,Anita Kalewska & Aleksandra Sadowska,Poland,female,2021,pole sport,senior,doubles,finals
+36.4,8,Iuliia Shamarina & Irina Strukova,Russia,female,2021,pole sport,senior,doubles,finals
+35.3,9,Ida Rosén & Hedda Britse,Sweden,female,2021,pole sport,senior,doubles,finals
+30.2,10,Nadine Buntinx & Romy Vos,Netherlands,female,2021,pole sport,senior,doubles,finals
+29.6,11,Desi Vannozzi & Noemi Basile,Italy,female,2021,pole sport,senior,doubles,finals
+28.6,12,Tiborne Dr. Bodi & Anita Nelli Kovacs,Hungary,female,2021,pole sport,senior,doubles,finals
+21.6,13,Diana Nodland & Mia Aurora Winderen,Norway,female,2021,pole sport,senior,doubles,finals
+21.1,14,Effi Mpalasi & Thaleia Bitziou,Greece,female,2021,pole sport,senior,doubles,finals
+20.9,15,Lyn Foster & Marian Foster,Australia,female,2021,pole sport,senior,doubles,finals
+60.6,1,María Eugenia Plaza Ortega,Mexico,female,2021,pole sport,masters 40+,individual,finals
+38.2,2,Jude Perrett,Australia,female,2021,pole sport,masters 40+,individual,finals
+34.2,3,Nina Savela,Finland,female,2021,pole sport,masters 40+,individual,finals
+33.5,4,Masako Akao,Japan,female,2021,pole sport,masters 40+,individual,finals
+31.0,5,Akiko Hamada,Japan,female,2021,pole sport,masters 40+,individual,finals
+30.8,6,Renee Pugh,Canada,female,2021,pole sport,masters 40+,individual,finals
+30.2,7,Valerie Tinkler,Canada,female,2021,pole sport,masters 40+,individual,finals
+28.7,8,Céline Reverchon,Switzerland,female,2021,pole sport,masters 40+,individual,finals
+28.6,9,Victoria Williams,Belgium,female,2021,pole sport,masters 40+,individual,finals
+27.0,10,Tasmin Rymer,Australia,female,2021,pole sport,masters 40+,individual,finals
+26.0,11,Griselda Arreola Rosas,Mexico,female,2021,pole sport,masters 40+,individual,finals
+25.8,12,Liza-Mari Du Plessis,South Africa,female,2021,pole sport,masters 40+,individual,finals
+25.3,13,Dana Florina Bertolon,Romania,female,2021,pole sport,masters 40+,individual,finals
+25.0,14,Ladislava Mašatová,Czech Republic,female,2021,pole sport,masters 40+,individual,finals
+22.3,15,Virginia Tarabella,Italy,female,2021,pole sport,masters 40+,individual,finals
+16.4,16,Emma Simmonds,Great Britain,female,2021,pole sport,masters 40+,individual,finals
+16.0,17,Kristen Benney,USA,female,2021,pole sport,masters 40+,individual,finals
+13.8,18,Anna Emde,Israel,female,2021,pole sport,masters 40+,individual,finals
+13.5,19,Angelina Amirgumarova,Kazakhstan,female,2021,pole sport,masters 40+,individual,finals
+13.4,20,Thaleia Bitziou,Greece,female,2021,pole sport,masters 40+,individual,finals
+13.1,21,Carolina Rosane Messias,Brazil,female,2021,pole sport,masters 40+,individual,finals
+10.1,22,Yuliia Chilibi,Ukraine,female,2021,pole sport,masters 40+,individual,finals
+0.0,23,Susan Nolan,Ireland,female,2021,pole sport,masters 40+,individual,finals
+33.3,1,Joan Ernesto Maya Contreras,Spain,male,2021,pole sport,masters 40+,individual,finals
+27.6,2,Sami Huhtakallio,Finland,male,2021,pole sport,masters 40+,individual,finals
+23.5,3,David Wilson,Australia,male,2021,pole sport,masters 40+,individual,finals
+45.9,1,Christie Kurrle,Australia,female,2021,pole sport,masters 50+,individual,finals
+39.2,2,Nora Susana Lopez,Mexico,female,2021,pole sport,masters 50+,individual,finals
+33.1,3,Ivana Ferdinandová,Czech Republic,female,2021,pole sport,masters 50+,individual,finals
+28.6,4,Shannon Daily,USA,female,2021,pole sport,masters 50+,individual,finals
+26.6,5,Maki Kudo,Japan,female,2021,pole sport,masters 50+,individual,finals
+26.4,6,Imelda Cabello Larios,Mexico,female,2021,pole sport,masters 50+,individual,finals
+21.5,7,Haruna Shiiba,Japan,female,2021,pole sport,masters 50+,individual,finals
+19.8,8,Clare Filer,South Africa,female,2021,pole sport,masters 50+,individual,finals
+13.3,9,Andrea Kajarik,Hungary,female,2021,pole sport,masters 50+,individual,finals
+5.5,10,Svetlana Tsyro,Norway,female,2021,pole sport,masters 50+,individual,finals
+21.6,1,Masahiro Tsugawa,Japan,male,2021,pole sport,masters 50+,individual,finals
+18.9,2,Didier Benac,France,male,2021,pole sport,masters 50+,individual,finals
+12.5,3,Juan Luis Oubel Barba,Spain,male,2021,pole sport,masters 50+,individual,finals
+8.7,4,Paul Bradley,Great Britain,male,2021,pole sport,masters 50+,individual,finals
+37.1,1,Kaitlin Rawson,South Africa,female,2021,para pole,PPMP1,individual,finals
+33.4,2,Isabel Maria Aguilar Ortiz,Mexico,female,2021,para pole,PPMP1,individual,finals
+28.9,3,Therese Moen,Norway,female,2021,para pole,PPMP1,individual,finals
+28.4,1,Francesca Cesarini,Italy,female,2021,para pole,PPLD1,individual,finals
+32.5,1,Andrew Gregory,Great Britain,male,2021,para pole,PPD4,individual,finals
+91.2,1,Daria Koreshkova,Kyrgyzstan,mixed,2021,artistic pole,junior,individual,finals
+84.2,2,Chloe Yuam,Tahiti,mixed,2021,artistic pole,junior,individual,finals
+82.4,3,Albina Obodnikova,Russia,mixed,2021,artistic pole,junior,individual,finals
+79.0,4,Albert Amores Roig,Spain,mixed,2021,artistic pole,junior,individual,finals
+75.4,5,Valentina Antonia González Cid,Chile,mixed,2021,artistic pole,junior,individual,finals
+74.0,6,Nel Koszela,Poland,mixed,2021,artistic pole,junior,individual,finals
+72.6,7,Mariia Stupnytska,Ukraine,mixed,2021,artistic pole,junior,individual,finals
+68.6,8,Nuray Sergazy,Kazakhstan,mixed,2021,artistic pole,junior,individual,finals
+67.0,9,Karina Mikhalina,USA,mixed,2021,artistic pole,junior,individual,finals
+65.0,10,Ciari Iwasaki,Japan,mixed,2021,artistic pole,junior,individual,finals
+63.8,11,Elena Arienti,Italy,mixed,2021,artistic pole,junior,individual,finals
+63.6,12,Samara Najla Gomes Fonseca,Brazil,mixed,2021,artistic pole,junior,individual,finals
+57.2,13,Janne Jacobs,Netherlands,mixed,2021,artistic pole,junior,individual,finals
+52.8,14,Kira Amira Szanto,Hungary,mixed,2021,artistic pole,junior,individual,finals
+73.2,1,Artem Kazymov,Ukraine,male,2021,artistic pole,senior,individual,finals
+67.2,2,Naoto Araya,Japan,male,2021,artistic pole,senior,individual,finals
+55.4,3,Silviu Daniel Mititelu,Romania,male,2021,artistic pole,senior,individual,finals
+49.8,4,Longino Arvizu Estrada,Mexico,male,2021,artistic pole,senior,individual,finals
+47.2,5,Eleftherios Tsononas,Greece,male,2021,artistic pole,senior,individual,finals
+27.8,6,João Luiz Afonso,Portugal,male,2021,artistic pole,senior,individual,finals
+79.8,1,Kanako Suda,Japan,female,2021,artistic pole,senior,individual,finals
+79.4,2,Demi Brama,Netherlands,female,2021,artistic pole,senior,individual,finals
+79.0,3,Magdalena Karasińska,Poland,female,2021,artistic pole,senior,individual,finals
+75.0,4,Tania Mussi,Switzerland,female,2021,artistic pole,senior,individual,finals
+73.3,5,Aizirek Akmatova,Kyrgyzstan,female,2021,artistic pole,senior,individual,finals
+71.0,6,Ann Lim,Australia,female,2021,artistic pole,senior,individual,finals
+70.2,7,Victoria Koshevaya,Russia,female,2021,artistic pole,senior,individual,finals
+66.0,8,Claudia Carolina Martínez Ruiz,Mexico,female,2021,artistic pole,senior,individual,finals
+65.8,9,Carlotta Bonazzoli,Italy,female,2021,artistic pole,senior,individual,finals
+62.0,10,Ophelie Screve,France,female,2021,artistic pole,senior,individual,finals
+62.0,11,Rosanne Marshall,Canada,female,2021,artistic pole,senior,individual,finals
+61.0,12,Sandra Sánchez Canelas,Spain,female,2021,artistic pole,senior,individual,finals
+53.9,13,Leda Botha,South Africa,female,2021,artistic pole,senior,individual,finals
+53.0,14,Xeniya Lyssova,Kazakhstan,female,2021,artistic pole,senior,individual,finals
+52.7,15,Fanny Jannerlid Söderberg,Sweden,female,2021,artistic pole,senior,individual,finals
+45.4,16,Ommer Globerman,Israel,female,2021,artistic pole,senior,individual,finals
+45.0,17,Taylor Dalton,USA,female,2021,artistic pole,senior,individual,finals
+43.3,18,Jacqueline Colares,Brazil,female,2021,artistic pole,senior,individual,finals
+43.2,19,Kinga Szostak,Norway,female,2021,artistic pole,senior,individual,finals
+41.2,20,Jennifer Kim Thiem,Germany,female,2021,artistic pole,senior,individual,finals
+36.4,21,Dana Florina Milas Cotop,Romania,female,2021,artistic pole,senior,individual,finals
+35.0,22,Sylvia Rodriguez,Colombia,female,2021,artistic pole,senior,individual,finals
+32.8,23,Eliise Piirla,Estonia,female,2021,artistic pole,senior,individual,finals
+32.6,24,Kirsi Helle,Finland,female,2021,artistic pole,senior,individual,finals
+29.7,25,In ae Kang,South Korea,female,2021,artistic pole,senior,individual,finals
+90.3,1,Amalia Lang & Kayla Lee Burch,Germany,female,2021,artistic pole,senior,doubles,finals
+80.8,2,Hanka Venselaar & Maaike van Santvoort,Netherlands,female,2021,artistic pole,senior,doubles,finals
+75.0,3,Mariya Fabrika & Alina Kolegova,Russia,female,2021,artistic pole,senior,doubles,finals
+72.4,4,María Eugenia Plaza Ortega & María Raquel De la Vega Badillo,Mexico,female,2021,artistic pole,senior,doubles,finals
+60.4,5,Mariana Tkachova & Iryna Karasova,Ukraine,female,2021,artistic pole,senior,doubles,finals
+60.2,6,Diana De Castro Possas & Jussara Bertolucci,Brazil,female,2021,artistic pole,senior,doubles,finals
+51.4,7,Naoto Araya & Ai Fujii,Japan,female,2021,artistic pole,senior,doubles,finals
+45.3,8,Lyn Foster & Marian Foster,Australia,female,2021,artistic pole,senior,doubles,finals
+44.1,9,Yu na Ko & Su na Kim,South Korea,female,2021,artistic pole,senior,doubles,finals
+39.0,10,Tiborne Dr. Bodi & Anita Nelli Kovacs,Hungary,female,2021,artistic pole,senior,doubles,finals
+80.6,1,Benita Bouwer,South Africa,female,2021,artistic pole,masters 40+,individual,finals
+74.1,2,Natalia Kerentseva,Russia,female,2021,artistic pole,masters 40+,individual,finals
+69.2,3,María Eugenia Plaza Ortega,Mexico,female,2021,artistic pole,masters 40+,individual,finals
+67.3,4,Anna Lubińska,Poland,female,2021,artistic pole,masters 40+,individual,finals
+61.2,5,Marieke Roos,Netherlands,female,2021,artistic pole,masters 40+,individual,finals
+58.4,6,Shannon Daily,USA,female,2021,artistic pole,masters 40+,individual,finals
+56.0,7,Chika Kaneko,Japan,female,2021,artistic pole,masters 40+,individual,finals
+54.0,8,Letitia Pannunzio,France,female,2021,artistic pole,masters 40+,individual,finals
+53.2,9,Jussara Bertolucci,Brazil,female,2021,artistic pole,masters 40+,individual,finals
+47.9,10,Maria Widmark,Sweden,female,2021,artistic pole,masters 40+,individual,finals
+42.8,11,Irine Tsitsinia,Greece,female,2021,artistic pole,masters 40+,individual,finals
+41.8,12,Anna Emde,Israel,female,2021,artistic pole,masters 40+,individual,finals
+76.8,1,Abdiel Villaseñor Talavera,Mexico,male,2021,artistic pole,masters 40+,individual,finals
+63.4,2,Seiichi Yamazaki,Japan,male,2021,artistic pole,masters 40+,individual,finals
+55.8,3,Jean Paul Berger,France,male,2021,artistic pole,masters 40+,individual,finals
+30.6,4,Luiz Henrique Fioretto,Brazil,male,2021,artistic pole,masters 40+,individual,finals
